@@ -1,0 +1,3904 @@
+commit 282dd2b845bb24d6e4e62a32ba028e6bb83e1507
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Jul 17 09:32:30 2021 +0200
+
+    Windows does not have sudo pepega
+
+commit cbe2fafefe2454e38bc5801e60cf66acc55e270e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 21 20:42:36 2021 +0200
+
+    dont need this
+
+commit 64951933ce4de40807638c2c20138156d02c6225
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 21 20:42:27 2021 +0200
+
+    Use format string
+
+commit b652d51da25e0ade76c0e4f2a16d79754a99f819
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 21 20:22:35 2021 +0200
+
+    Fixed preprocessors
+
+commit 3a04c32f4f0aa286d23182a03e150b4065e9d650
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 21 20:01:12 2021 +0200
+
+    fix cpuid.h
+
+commit 9de9f3cc13b970be103663352bf8e642106a3432
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 21 19:52:35 2021 +0200
+
+    bump fmt
+
+commit a885596211d9dfc5d0b0ccc968a838989e60a062
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Jun 20 23:35:18 2021 +0200
+
+    fuck it... imma not bother making individual commits
+
+commit 7b10744354ce059cb7276765dca5e4ea2bc89bc3
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Jun 20 22:54:52 2021 +0200
+
+    Remove throwaway provider detection
+
+    This is will get out of hand, and will not be particulary helpful in stopping fake accounts
+
+commit c3a29182635b86d50b75527c226ebc3327da8b9f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Jun 20 22:53:22 2021 +0200
+
+    Made ThorQ::Uuid standalone
+
+    ThorQ::Uuid doesnt rely on external libraries anymore, this makes it more eficcient and easier to compile
+
+commit 7294f3f4360e996a598abb211fb492bb16c72f83
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Apr 19 03:07:29 2021 +0200
+
+    Bumped bad_email_providers
+
+commit 2e747a0e18120613a53ca8ea1e847c3b441eac3b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Apr 19 02:31:10 2021 +0200
+
+    fixed mainWidget oopsie
+
+commit 22f00a2e7d272f87994243f72858273276f61a79
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Apr 19 02:25:29 2021 +0200
+
+    Bumped submodules
+
+commit bf2df89b8cd50d27fe521fba314f51450cfaf3db
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Apr 19 02:24:06 2021 +0200
+
+    Got VR working again
+
+commit 36c0c6ca7fde4046aea6b90b3c5d7091af16b813
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Apr 19 02:22:12 2021 +0200
+
+    Improved collar stuff
+
+commit 690d4be49380806aba8547b3a09433ef1f7483f5
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Apr 19 02:13:08 2021 +0200
+
+    Cleanup n stuff
+
+commit d48b02aacd38703b28c978889b81bdb6b1d6a15d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Mar 30 17:56:17 2021 +0200
+
+    Improve bad email detection
+
+commit ff9806d47083c34dce394dd7ec75954698a049e5
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Mar 30 02:24:20 2021 +0200
+
+    fixes n stuff
+
+commit f5d3a837a03f3842cca9d467154b1a807006c024
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Mar 30 02:02:36 2021 +0200
+
+    Update message handling, and add message building to client
+
+commit 9fe32c42623b89ebfd3577527f2b4e9b02ca7aa0
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Mar 28 21:52:05 2021 +0200
+
+    Idk anymore
+
+commit 7328950eb2538b04ff1dc6d3b2b1960249d8a648
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Mar 28 08:50:32 2021 +0200
+
+    added error label
+
+commit ad141ea2d439f21d817a4c44c98e684ed59b7785
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Mar 28 08:05:42 2021 +0200
+
+    Idk whats wrong
+
+commit 595d5ec89783104801b6092a13b6c4ccb36b120d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Mar 28 07:54:04 2021 +0200
+
+    submodule bump
+
+commit 98cf15d9920f1e26bc053abf32c43fdfd5c9ed28
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Mar 28 07:53:14 2021 +0200
+
+    Change some password hashing API stuff
+
+commit e524d2c1f75c436324f6826a6efa5cd1bbd0b7c8
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Mar 28 07:52:52 2021 +0200
+
+    Fix CMake stuff
+
+commit df2312e7b7bade86ad969e5508503f44ef676630
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Mar 28 07:52:15 2021 +0200
+
+    Added email checking
+
+commit 8399ff1fc929ce2df364e60861d50ad73b5e93b0
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Mar 28 04:54:50 2021 +0200
+
+    added email verifier utility
+
+commit d4dcd2b5e53ec71d6bc41f311ee14bba56521b4e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Mar 27 19:46:09 2021 +0100
+
+    test
+
+commit e327d52c30671eeabf3e22fe9967c557be317352
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Mar 27 19:33:52 2021 +0100
+
+    Fixed wrong type for hashing parameters
+
+commit 702c44dc77124b96cfe29f19e7223df89dd5aa87
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Mar 27 19:21:58 2021 +0100
+
+    Bunch of refactoring of VR code, input manifest now gets parsed :D
+
+commit 4a4beef79751db5473177501763c7487fc5847be
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Mar 27 19:21:16 2021 +0100
+
+    Renamed Client executable to "ThorQ"
+
+commit 74a4957285874f78c85366eb48c526d1945adf82
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Mar 27 19:20:38 2021 +0100
+
+    Fixed API login logic
+
+commit d9b16f248b752790f2df733d2c364e648d5a80b2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Mar 27 19:19:11 2021 +0100
+
+    Bumped submodules
+
+commit c305011322304dc189a3d8ad374a3f1da4cbec75
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Mar 16 23:03:05 2021 +0100
+
+    More restructuring, API changes, and fixes
+
+commit 43933eb57d59c19f98b5a004fabe8fcfeec310e7
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Feb 21 04:36:12 2021 +0100
+
+    A bunch of changes to API, database, and general structure
+
+commit 53424c59a2a81509df2f9067b748576e657d2628
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Feb 12 00:29:25 2021 +0100
+
+    More docs
+
+commit bf02fd8ba593aa20209abb5dedc8b0340e70d4fd
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Feb 11 15:42:07 2021 +0100
+
+    add libuuid to linux install instructions
+
+commit 6d43ab9ad58894303b7f35b05b1cd66d7bcb64dc
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Feb 11 15:38:41 2021 +0100
+
+    add installation of mesa packages to linux instructions
+
+commit 6d54e2e588db8c7f4e84a2a3105d0b15270d361d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Feb 11 15:34:13 2021 +0100
+
+    Speed up flatbuffers compilation in setup instructions
+
+commit 424698234431bdb5bb163363f7cef5efdc4da201
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 10 19:20:28 2021 +0100
+
+    (Tried) fixing up db
+
+commit 9eadf3ef1af7f72f5a2911420127e21fa65e4466
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 10 17:12:35 2021 +0100
+
+    bump lsql
+
+commit 5918b6b89d9c207209567d50b9119ac7b5b63d70
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 10 17:08:15 2021 +0100
+
+    Fix compiling issues, and optimize data handing
+
+commit 8f490196267ccc7f73d5dbb9e2ea24c408d46f22
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Feb 9 22:31:44 2021 +0100
+
+    This is horrible, plz fix
+
+commit 89adef5cf873dd0a86109508a2b2496aaa45b0a3
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Feb 9 14:54:46 2021 +0100
+
+    More serialization and application structuring
+
+commit 6fcba894d2507d9cfb2efaf9e0588692b49ab280
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Feb 9 10:23:34 2021 +0100
+
+    Yeet un-needed overhead
+
+commit bad8ec19f603b520da422fc42ca10c6d917625c5
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Feb 9 10:02:48 2021 +0100
+
+    Am i on drugs?
+
+commit e74d44b20fc46bd04b468ade7403cf75a9c61faa
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Feb 9 09:24:07 2021 +0100
+
+    Bump submodule to fix compiling erro on linux
+
+commit 6573018a086a184f991408e87923215b76e73af9
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Feb 9 03:31:47 2021 +0100
+
+    Improved login window and login controlflow
+
+commit 532c9bebe2933acb6a1883d344d1acb7970de638
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Feb 8 02:32:37 2021 +0100
+
+    Bump submodules
+
+commit be6dbdeb54699e04df23d7918fcf510048d4a6b3
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Feb 8 02:32:09 2021 +0100
+
+    More verbose
+
+commit a475f7101bc213a2ba79546c7294682d18885423
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Feb 8 02:31:52 2021 +0100
+
+    Re-work login screen
+
+commit ad5a0f77c2cb43eef56133348be21100533ad254
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Feb 8 02:31:39 2021 +0100
+
+    No other messages then crypto should be accepted un-encrpyed by the client
+
+commit 5e95cd464178e91c56fabcfd4e5afd36e217d1e9
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Feb 8 02:30:50 2021 +0100
+
+    LSql does not support multiple queries (for now)
+
+commit 3697caf9d12a69b517aa6e70e0be5ca4da178479
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Feb 8 02:26:54 2021 +0100
+
+    Add changes to db structure, and make the queries readable
+
+commit 6c7ce1dbf36955b02ffab6e9d98b7c8964490332
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Feb 7 20:40:17 2021 +0100
+
+    Bump lsql
+
+commit db0229594237fb640a6e439841a7f1c80d0476f9
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Feb 7 02:55:46 2021 +0100
+
+    Error handling and more message parsing and message flow n stuff
+
+commit f69adb798266e1499608951a6c87ae8cad2d6adc
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Feb 5 18:49:09 2021 +0100
+
+    Crypto now fully works
+
+commit 33869a15d3d9f96ca83b36433a2ceafafe9a008d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Feb 5 13:29:57 2021 +0100
+
+    Update Windows.yml
+
+commit 8ce5e5163287c12baf3ae04eabc3840930224500
+Merge: 7ac1541 8f882fa
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Feb 5 13:15:21 2021 +0100
+
+    Merge branch 'trash' into develop
+
+commit 8f882fa91fc75e328186596f9362145b7165edf7
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Feb 5 12:56:49 2021 +0100
+
+    Add libsodium as a submodule
+
+commit 1effbdcae62e5b74ac0fc7bb517e0b4da2f442cc
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Feb 5 12:55:56 2021 +0100
+
+    Remove libsodium files
+
+commit 0a66cac6bb018a917fddbb5e7c26a30522607941
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Feb 5 08:17:36 2021 +0100
+
+    trash
+
+commit 68603c151f982d5fa0b949143ffcebdeef2398eb
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Feb 5 06:43:00 2021 +0100
+
+    Messaging fully works
+
+commit 1f86d39a4eb475c51b0fb075571054aec04baf98
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Feb 4 19:45:30 2021 +0100
+
+    UwU
+
+commit 7ac1541e0e1354e1a2bc394468d416781f6d1b72
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Feb 4 16:50:05 2021 +0100
+
+    Update Windows.yml
+
+commit 376686c6479ff3aafeb38df8f26c966c6d31f4de
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Feb 4 16:45:24 2021 +0100
+
+    Update Windows.yml
+
+commit 2daceeb21403558cb7bbf7b4a0dc9c2fd70abb8b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Feb 4 16:39:29 2021 +0100
+
+    Update Windows.yml
+
+commit 92e92247cdc8ec15d05cf7ba3de240e5229e01f2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Feb 4 16:14:44 2021 +0100
+
+    Update Windows.yml
+
+commit 347a6178007801a7d58466e795ecb1d8d7be7322
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Feb 4 16:12:32 2021 +0100
+
+    Update README.md
+
+commit 2682b331601ff0e434041c7226ce580b21579856
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Feb 4 15:56:57 2021 +0100
+
+    Update Windows.yml
+
+commit ed0320d148b097c158265fb387dc231eb390d672
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Feb 4 15:41:07 2021 +0100
+
+    Update Ubuntu.yml
+
+commit 0f64f2add0525aef95ca5e68981edc35ccfd9242
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Feb 4 15:37:53 2021 +0100
+
+    Updated workflow files to actually do something
+
+commit 8ff636f1057e233a4ecb3461a228d917c98725cc
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 3 18:24:02 2021 +0100
+
+    Got ASIO Client and Server working
+
+commit 1f013c6bdd9966d6052815a0f107d2014ff9626a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Jan 31 05:12:43 2021 +0100
+
+    Complete crypto classes
+
+commit f408813bc2e311d01ae65e5bc3808e2b10e3d6cb
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Jan 31 01:33:40 2021 +0100
+
+    This isnt needed tbh
+
+commit 6234bece1bdba35194fc00d24f0befefad541b43
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Jan 31 01:33:23 2021 +0100
+
+    ASIO BE QUIET PLZZZZZ
+
+commit 00de0e48d4376db9f1043bc4fa71698699a82c38
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Jan 31 01:33:07 2021 +0100
+
+    Split up crypto class and tests/tools
+
+commit 7a1fddb3dcbfd07c4cb3c1a69e4243eec5936626
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Jan 31 01:30:05 2021 +0100
+
+    Added cryptographic signing class
+
+commit bcfef5fe1cb21754eb017e1ad21fdfd09b4736e7
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jan 29 22:37:48 2021 +0100
+
+    Client-side parsing is working
+
+commit ce3dcb6f7fd0587addddee2d9497e794eac0bbb1
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jan 29 22:37:30 2021 +0100
+
+    Channels dont exist anymore :)
+
+commit 3e144fc4a8afa592117133d54db2b7c663fb3fdb
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jan 29 21:43:49 2021 +0100
+
+    Remove handler functions on client
+
+commit 90eb7aeb9174dfb94706792a24bede9bfdef75ff
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jan 29 21:22:50 2021 +0100
+
+    Remove include for the file i yeeted
+
+commit ca22e4e5d419eba17a38b10dbf192c509e4de049
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jan 29 21:19:57 2021 +0100
+
+    Add arduino code
+
+commit f015f4e0b80d45cebd6b759e689faf274f391731
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jan 29 21:19:48 2021 +0100
+
+    Bump submodules
+
+commit d0828dc3ed238b71243cfce44bc2e189b2d47806
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jan 29 21:18:31 2021 +0100
+
+    Add Qt metatype declerations
+
+commit 22d226c7bec5881fac95af70ecb6551c902baf9d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jan 29 21:17:50 2021 +0100
+
+    Improve deleteexecutable and fix ignored return
+
+commit bbb5f3c680d7f654392abd127f7b4f1ba0e9e93a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jan 29 21:16:51 2021 +0100
+
+    Add THORQ_UNUSED macro
+
+commit 71caac858a4d1a09cffba6e792ebe04801b130e3
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jan 29 21:16:21 2021 +0100
+
+    Fix array comparison warning
+
+commit 87b43aae183632f997129beef40c06e863a06466
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jan 29 21:16:05 2021 +0100
+
+    Fix clang unused argument warning
+
+commit 72a3073d775d440636684d46fc92970a0293707d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jan 29 21:14:50 2021 +0100
+
+    Improve ThorQ::Version
+
+commit 6f2c601e9df98d9e0e96b4d568115bf6d58f5544
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jan 29 21:14:03 2021 +0100
+
+    make const crypto arguments const
+
+commit 22fec5d9370cb8ab9cab411f050407a426f89ab9
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jan 29 21:12:28 2021 +0100
+
+    Move UUID to shared library
+
+commit 10fc762a803d3f8686395acaca2be9ab22443243
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jan 29 21:06:11 2021 +0100
+
+    Upgraded to ASIO framework
+
+commit 0473a464eb21732c7241131f6a5b0f02310ed523
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Jan 24 18:51:48 2021 +0100
+
+    vr stuff
+
+commit 8448928b126249741b1ce593b3a283da7a156a1d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Jan 24 18:46:23 2021 +0100
+
+    More networking stuff..................
+
+commit 6ae75fcf3a07dcf799fb4655e87b2fae09d9b855
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Jan 24 18:45:59 2021 +0100
+
+    Fixed macro switch
+
+commit a43cd072ed651c066c0083c5762c66d9127649b5
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Jan 24 14:55:57 2021 +0100
+
+    make MAX_PATH cross platform
+
+commit a6e94c6a6020ca839dbf8432e6e5ae4147eeb8f8
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Jan 24 00:37:20 2021 +0100
+
+    What the fuckkkkkkkkkkkk
+
+commit baaa1a3b5f15d953db020357ef0c8b8f08f1d093
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Jan 23 23:21:12 2021 +0100
+
+    more descriptive name
+
+commit 85d8fdb1f749fd4d49721ae4ea633212f35f3662
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Jan 23 23:20:53 2021 +0100
+
+    nicer verbose
+
+commit eecc051486a6af723fe712dc09896c096cf227ca
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Jan 23 23:20:31 2021 +0100
+
+    VR stuffz
+
+    This is getting nowhere...
+
+commit 2ca96eef4457e22e7f35eb3748f5f824420e2d96
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jan 21 23:07:20 2021 +0100
+
+    its a host, not a client
+
+commit 721ae2c2688d2b752639ba3b5e789ba5b13468c7
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jan 21 23:06:12 2021 +0100
+
+    More memory safety
+
+    There is currently a memoryleak, and i cant find where the packets are lost
+
+commit 443cf3eafb885f1c7304ccb142c345743c0855b1
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jan 21 22:01:32 2021 +0100
+
+    oops
+
+commit a6eeea34f2a3e9dc04218d1e64897fda166143dc
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jan 21 21:34:54 2021 +0100
+
+    localhost, for now
+
+commit ff402d9e4abd676766f670a1b1a17611d9bad0fe
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jan 21 21:34:35 2021 +0100
+
+    Connect -> Disconnect -> Reconnect -> :3
+
+commit 86d4d7e83e621820a493a64297d14d0995b52c38
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jan 21 21:16:40 2021 +0100
+
+    Move more over to flatbuffer format
+
+commit 2116381143c5ea4d9b75766ad217e20505e5aab4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jan 21 20:15:45 2021 +0100
+
+    Renamed some channel names to more sensible names
+
+commit b8a542edf4f50d4a7fd3766b1f5643e88e96206f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jan 21 20:12:14 2021 +0100
+
+    Restructuring, and changed the way the client handles connections (this is stupid)
+
+commit 303036febd1897b71e4afcfb8a6d9c4b1b6d50a1
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jan 21 12:45:17 2021 +0100
+
+    Fixed server startup/shutdown issues
+
+commit 7bd3f85bb5b29f3bfbea562b8b26a7a77b158d4b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jan 20 11:27:18 2021 +0100
+
+    ENet code cleanup
+
+commit 81007b7a79f8681ac233139af6ae795d6493db34
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jan 20 11:21:23 2021 +0100
+
+    More comments
+
+commit e8d7e754b5fcfd84730f2b038f093f6c71024c7d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jan 20 11:21:11 2021 +0100
+
+    Fix ENet include
+
+commit fce6b0faffc0b994054f29179564fa5d17d325ea
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jan 20 11:08:43 2021 +0100
+
+    Bump submodules
+
+commit 61b8091daf0d647b135f0696d00dc72a2b294ce1
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jan 13 16:33:03 2021 +0100
+
+    Bump
+
+commit d06f9e61a77cca2506aeff5685676c0d49fc3d87
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jan 13 16:25:28 2021 +0100
+
+    Yeet
+
+commit e8df4761c78732bf83787f2f46e2c32cfe0fe0f4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jan 13 09:55:13 2021 +0100
+
+    lots of changes
+
+commit 371130bd2fcc1eaa942f368a1d76951add196aa6
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jan 8 21:35:53 2021 +0100
+
+    oops
+
+commit dafe493bb5f93de08f01e1eac9688b011d4f12ef
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Dec 26 01:05:43 2020 +0100
+
+    Updated ThorQ::Uuid
+
+commit da468e4be715a775baffde455f6110887f902200
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Dec 17 13:19:33 2020 +0100
+
+    Calming down the warning messages for release builds
+
+commit da56ee08a2b73bfa5755da543529e9c6a2688a9a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Dec 17 13:12:13 2020 +0100
+
+    Fixed cryptographic agreement failing
+
+commit b87b290acbe4103da93aea0910b9ca2b6eabb658
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Dec 12 21:38:17 2020 +0100
+
+    misc stuff
+
+commit e305f0ac8ddfff7131ca1a264b2fc89c6c2d4a61
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Dec 12 21:38:05 2020 +0100
+
+    Fixed oopsie at server
+
+commit d46f6e083e258ec15fc74e53ab517488db1875f9
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Dec 12 21:37:33 2020 +0100
+
+    Fixed client sending establish instead of verify
+
+commit 3a42b06fa1098ea80bebea147a52c3318fb34cd3
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Dec 12 21:37:03 2020 +0100
+
+    Fixed server crashing, and added disconnection handlers
+
+commit 9b77ff49f67b672de97fcde77e11a9643b2bdb4a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Dec 12 20:42:01 2020 +0100
+
+    Rename to ThorQ
+
+commit 0cee324bc6ef893dd2659c26b86efd09e9d1c579
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Dec 12 17:25:14 2020 +0100
+
+    bumped submodules
+
+commit a3b08726d0fb165d9c9b67c5bab72ad74dcfaccc
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Dec 12 17:20:18 2020 +0100
+
+    Changed keygen to cryptotest
+
+commit 6ae43b97391cac11a923f635968847d5497f3b44
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Dec 6 01:44:01 2020 +0100
+
+    Cleanup and restructuring
+
+commit c882501503d20990f17d050ae3d1450259a65b80
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Dec 4 21:14:18 2020 +0100
+
+    oops
+
+commit 4c2fc559edf7821fbb91d9b7b1b4ad188acdc0bd
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Dec 4 21:10:17 2020 +0100
+
+    more stuff
+
+commit 0484688385a8e507cc7921a42476831625826cb3
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Dec 4 03:36:17 2020 +0100
+
+    oops
+
+commit fdf58da96de852a442fbfa325a09430838c62c4b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Dec 4 03:32:26 2020 +0100
+
+    Possible fix?
+
+commit efb5a41a8443b70d60f87b7b59a132796551795b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Dec 3 09:51:17 2020 +0100
+
+    Added more safety to packet parsing
+
+commit 90474e9d5faa22404d7cf6817e2fd7fd43e11b0b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Dec 3 09:50:17 2020 +0100
+
+    Added more explanatory CMake error for no FlatC compiler
+
+commit 3fc540526d11fe69f5324320702fb3a1457777f7
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Dec 1 09:53:46 2020 +0100
+
+    bump fmt version
+
+commit 131ffa1fd5f2b1b3ec4016f62407c320c4fec697
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Nov 28 05:06:22 2020 +0100
+
+    FML
+
+commit 5638ddd4a5fd4b90ac14be7d2f41b741e731ef41
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Nov 28 03:31:51 2020 +0100
+
+    possible fix
+
+commit b84ed72b2bc05837e5138068ff1cfcbcc96aed64
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Nov 28 03:26:17 2020 +0100
+
+    Unify encoding
+
+commit 75191f9f4f8d9b87acf01ccfe095e1e39108820f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Nov 28 02:47:10 2020 +0100
+
+    yeeeeeeeeeeeeeeeeeet
+
+commit ee8c478568a5a098abac46517589f6a11e8638c8
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Nov 28 02:34:12 2020 +0100
+
+    REEEEEEEEEEEEEEEEEEEEEEEEE ;W;
+
+commit f20ea85028a822a483acf01ff94f52242475697e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Nov 28 02:28:53 2020 +0100
+
+    fixed some stuff
+
+commit 9d7ed316aff56626f318b85cc64060b7b71c0036
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Nov 28 02:11:02 2020 +0100
+
+    Some stuff
+
+commit c18f60822c698c819b9c317933bc92156b978d35
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Nov 27 22:28:54 2020 +0100
+
+    This is stupid
+
+commit 7a08f71e31fb9b8c28e9f0efa9132c8c81b8ce3c
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Nov 27 14:33:43 2020 +0100
+
+    Fixed crypto not setting and using state correctly
+
+commit 2f2d4206ff4da74699578b8e9a7d8a90c2d2d8bf
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Nov 27 14:15:39 2020 +0100
+
+    More work on crypto
+
+commit 4e80a70bcee2e5f3eaca541e487a43f62eed6efa
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Nov 27 13:34:21 2020 +0100
+
+    temporary fix for flatbuffers
+
+commit 9808c77612bdaf95c5bf76a067f02633f3ce5f5a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Nov 27 02:01:06 2020 +0100
+
+    This is so stupid
+
+commit 74a06f648311d98c18d31234927811c9a5e708f3
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Nov 26 02:14:17 2020 +0100
+
+    Reeeeeeeeeeeeeeeeeeeeeeee
+
+commit c1c971bfd50256fe73bfc7e6457756836398af41
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Nov 26 02:10:36 2020 +0100
+
+    Weeeeeeeeeeeeeeeeeeeeeeeeee
+
+commit 5775f141fe03fecc9126eee9939a97df3fd87c96
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Nov 25 22:39:57 2020 +0100
+
+    Fixed bugs
+
+commit 25cebe9d161344beb73c79264510f6999e68e5c1
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Nov 25 22:14:31 2020 +0100
+
+    changed stuff
+
+commit 99a26e4fc3814a2bbe9666efcebd14e56f65ccda
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Nov 25 21:04:35 2020 +0100
+
+    optimization and bugfixes
+
+commit d6e2b246d2a624227effca871d2fb014493d5d9b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Nov 25 20:10:05 2020 +0100
+
+    Fixed response heartbeat serialization
+
+commit defaf0a752bcda0a1ddbb38bc9ca588f8da2feec
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Nov 25 20:01:33 2020 +0100
+
+    Fixed packet getter not setting data pointer
+
+commit 561d08679005636b3e59ce1ece93210b83c4e53a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Nov 25 19:41:05 2020 +0100
+
+    fixed switch case input
+
+commit 882251cfa144d080a05b34af632de2c6aa8db343
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Nov 25 19:26:21 2020 +0100
+
+    oops
+
+commit 86722960bbeb9430296e68a10d8492ba99cc19ff
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Nov 25 19:22:22 2020 +0100
+
+    Updated client and server parsers
+
+commit 1d47ab5be5d117e9088e503870ea60a231b1925b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Nov 24 23:47:51 2020 +0100
+
+    remove contexpr forward decleration
+
+commit 2f5f9c9df52d5ccc93ae8bc0703131b0113ceb83
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Nov 24 21:30:39 2020 +0100
+
+    bumped submodules
+
+commit 1ca8b0de6c07a9dff76cc057f1dff2e2b5fdbbeb
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Nov 24 21:23:21 2020 +0100
+
+    oops x2
+
+commit a55f297685e8885101bfec6f510475af2befc2f8
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Nov 24 21:22:14 2020 +0100
+
+    oops
+
+commit c5ba3820fd48eabd0675ff00964e4d115e19fc5c
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Nov 24 21:20:25 2020 +0100
+
+    Updated flatbuffer schemas, and alot of other messaging stuff
+
+commit 94f991b6192f258935334a2bffc515063225a740
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Nov 17 21:06:06 2020 +0100
+
+    CMake now copies OpenVR binaries to build directory
+
+commit 56c4f5b56ed666a0d6f0e69370f897a64936f81a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Nov 16 18:11:48 2020 +0100
+
+    Fixed encoding/decoding functions
+
+commit 0d8ab0cacda59be0a0d645c956739bad73122b0c
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Nov 16 17:39:33 2020 +0100
+
+    Fixed decoding code
+
+commit d60c71c26941eea667826ef9ebbe2cdd752074fc
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Nov 16 16:38:09 2020 +0100
+
+    Fixed server segfault and me being retarded
+
+commit a7abe6eedbe2e1856a3d8be234758edbfd66fa4f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Nov 16 16:29:37 2020 +0100
+
+    Moved event handlers over to dispatchers
+
+commit 782d2b45966e0d75d1fa70f591ce1a224adf8a48
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Nov 16 16:16:10 2020 +0100
+
+    Fixed message dispatcher not running
+
+commit 21d8badbd1c1c370eb937601bc36e0fa661d2eff
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Nov 16 16:15:43 2020 +0100
+
+    Fixed client not calculating size of packet
+
+commit ca2afb613d79e01d0a1d4b3c06ebf98a3207c87a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Nov 16 16:00:58 2020 +0100
+
+    Fixed iteration counter
+
+commit 9865fdf9363e709417bfcc4a9e88a655f230a6a2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Nov 16 15:32:56 2020 +0100
+
+    REEEEEEEEEEE removed libsodium CMake stuff by accident
+
+    In commit "5efad1a4dcf8df147db54840c07c01e8fb3996fb"
+
+commit 40842eafe160903ec9b2f923c52d79ae01a2b30e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Nov 16 15:29:14 2020 +0100
+
+    Initializer list order matters
+
+commit c6c0e19aa41e2356704eaf8fc275f9be1bfb624a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Nov 16 15:28:57 2020 +0100
+
+    Oops, forgot to remove this
+
+commit c5d76f0f45973481e0070368e0baa6d582932a8d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Nov 16 15:20:46 2020 +0100
+
+    bump submodules
+
+commit 639b17c7ac61ed71f4e18ec16e4650a0d258ae45
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Nov 16 15:16:02 2020 +0100
+
+    Waitf for flatbuffers to fix their shit (on linux)
+
+commit af55155102eb3dfee6dde39c589b8940b5c8dcd4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Nov 16 11:24:12 2020 +0100
+
+    Remove tbb
+
+    It just complicates stuff, if we need concurrent containers in the future we can add it then
+
+commit f38f3178d880fbcbc5e3960672eb318b58f70ce7
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Nov 13 15:59:07 2020 +0100
+
+    Updated stuff
+
+commit 0a5dea4df13a7de186c7c46e9bdcf4162ec60ccb
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Nov 13 15:54:44 2020 +0100
+
+    Updated ThorQ::Version functionality
+
+commit d0e84a9e6594c643c0de250f0ce5735b660cf14b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Nov 12 18:55:12 2020 +0100
+
+    Removed stuff and simplified server
+
+commit c722a3c88064257b6e3828f79e9b4095b5dcafe2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Nov 12 15:30:56 2020 +0100
+
+    Got stuff compiling (FML)
+
+commit fa290810e4ffee2741a969177eb4e78355c6cc24
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Nov 12 14:49:58 2020 +0100
+
+    Update README.md
+
+commit e0d18f287229436ae720827980da4a296d98d31f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Nov 12 12:36:02 2020 +0100
+
+    Updated dependencies description
+
+commit 7e49b8a33c743827e1783a77f9d6ee45b68cb6b5
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Nov 6 16:21:57 2020 +0100
+
+    bumped flatbuffers and started using getBufferSpan()
+
+commit d36a9dab5c534a5ac4daeba243e8899b014123dd
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Nov 6 14:50:36 2020 +0100
+
+    Removed utils
+
+commit 413afb69f615e9a444269b88617cd016d9e0886b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Nov 6 13:44:30 2020 +0100
+
+    Remove old functions for notifications and broadcast
+
+commit 530acf258f0d75b18e6e4c54d830d7081f48b93a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Nov 6 01:58:38 2020 +0100
+
+    Dont mess too much with fancy features
+
+commit cc705d403a3290c526987863b374d52d1f2f9919
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Nov 5 18:34:13 2020 +0100
+
+    Bump fmt submodule
+
+commit 30116abd1dc8f7a286827d31e93d0c639ffaa46a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Nov 5 18:33:20 2020 +0100
+
+    Removed unused statistics.h
+
+    Server class currently holds host specific statistics
+
+commit 5e5bbe29c0b7b286b420a72f019bba01b84e27e9
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Nov 5 18:19:49 2020 +0100
+
+    Fixed hashing function for UUID
+
+commit bd8154104bb9c9be365e0ae9d5fd80a143efbbf4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Nov 5 17:11:28 2020 +0100
+
+    Removed Botan hashing functions
+
+commit 908f7099ca1bc97fc07f6f61d26b669f27873f2c
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Nov 5 17:06:19 2020 +0100
+
+    Encoding/Encryption cahnges
+
+    - Added libsodium
+    - Removed libssl
+    - Removed libbcrypt
+
+    - Changed alot of functions to use std::span instead of raw pointers
+
+    - For some weird reason now needs to link with TBB, so i added that
+
+commit e4fdb67df649bdff1ea357a7d34cd08c89aaa1a6
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Nov 4 18:39:35 2020 +0100
+
+    Changed some schemas, created a root schema, and some cleanup
+
+commit 7bd6699ec7b3da77741a51ef8745bdfee0f39087
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Nov 4 11:08:18 2020 +0100
+
+    More warnings!
+
+commit 05b82a047c890236fc3f33ba292918c1c1d8a79b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Nov 3 19:50:56 2020 +0100
+
+    Fixed windows name colission
+
+commit c12698f5a6e0473e4dcfecd39324fbc052c6bea0
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Nov 3 19:46:39 2020 +0100
+
+    Made CMake linking better
+
+commit ccb5897152aef2460e900f4c392b421ee2828ae7
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Nov 3 19:46:24 2020 +0100
+
+    Moved functions around, renamed enums, removed un-needed files
+
+commit 4f04d42ff5619653275315de0bd355194f2d8059
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Nov 3 10:38:15 2020 +0100
+
+    bumped lsql version
+
+commit 4faf66a1ac1c8b1feb857c9dcb153af8ba69d415
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Nov 3 10:07:09 2020 +0100
+
+    bumped submodules
+
+commit de28b9309508f47281d008a11b0cc6da06f026ca
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Nov 2 23:37:58 2020 +0100
+
+    Fixed some stuff and started with conversion to make all server calls from messagedispatchers
+
+commit 001f91371fa5a411ab895e1be00b7a758926f296
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Nov 2 02:06:30 2020 +0100
+
+    added more links to check out
+
+commit bcfc7583ebc8fdc452ca7544a8a0c03266b44971
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Nov 1 18:25:38 2020 +0100
+
+    Redid uuid, and made Relationship database operation
+
+commit d29a68e286e8df3ee770934e5e79f93282cfcf3b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Oct 30 03:59:33 2020 +0100
+
+    More warnings
+
+commit 4d274793fb5e1bfa4c4d33ffa392d5019c70c388
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 29 19:39:46 2020 +0100
+
+    FUCK GO BACK
+
+commit 774e3dc61e8b50d2dc4849e63b14f5e90025a197
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 29 19:36:24 2020 +0100
+
+    Added <concepts>
+
+commit 5da1d8d3e1f6e35c500d3589120973e367624531
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 29 19:33:36 2020 +0100
+
+    remove <ranges> for GCC
+
+commit dcc73b92d09268835eb3138eec79166394770934
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 29 19:33:22 2020 +0100
+
+    Force disable building tests
+
+commit 60aad57c6c27bc1da2a901bbccc06c38e5c28434
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 29 18:16:10 2020 +0100
+
+    Bumped submodules
+
+commit cbb2e78e11460afbc05f50c94523e1e4a00a4c86
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 29 18:06:15 2020 +0100
+
+    Force added lsql as submodule
+
+commit f9f0e6d1cea049768252c74325c9238f72f8cc89
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 29 17:25:14 2020 +0100
+
+    misc stuff
+
+commit 47bdf58d5004120814d20613e8de61538b88107a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 29 16:58:41 2020 +0100
+
+    Removed and changed some verbose stuff
+
+commit c8130a01eb479788f674917c87cf3aefa41010e4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 29 16:58:09 2020 +0100
+
+    Removed tests
+
+commit 39b93523c4565ebf08471c00af2b0fdd7a3d2b2a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 29 16:57:39 2020 +0100
+
+    Fixed ENet segfault
+
+commit 86295bdb93641e8810f50ebb085351b49a0bf371
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 29 16:57:16 2020 +0100
+
+    Made SQLite code a submodule
+
+commit 686f89b2b8a37ca5817f34dbc27687d06ee40cf1
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 29 14:55:36 2020 +0100
+
+    Batch commented out code to get stuff finally compiling again
+
+commit fe41ed5c76a9d6107c7c8258b9bc568859cd5450
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 29 14:55:00 2020 +0100
+
+    Fixed linking issue (libdl)
+
+commit c118dfad86097fe2ae0082452541cf27087a3997
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 29 14:54:37 2020 +0100
+
+    Fixed SQLite flags and removed useless stuff
+
+commit 47d6a30e581b766c9d7439ee0e8a6e4cc6f2a618
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Oct 28 19:46:11 2020 +0100
+
+    Lots of VR improvements
+
+commit 6f5fcb847846f20a73994f642eac8b5c294b8839
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Oct 28 10:00:31 2020 +0100
+
+    Refreshed submodules
+
+commit 0878356cac2e92fa8190b40d4e49e2da1fd05f89
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Oct 28 09:43:08 2020 +0100
+
+    Yeet
+
+commit 9a5dd00a4240091bc401b7504be0718fb88c7be7
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Oct 28 01:24:04 2020 +0100
+
+    fixed manifest path
+
+commit f592433f74262514d9567caa441fbaf35665725e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Oct 27 02:18:25 2020 +0100
+
+    Fixed stuff
+
+    Implementing protobuf serialization in more functions
+    Removed concurrent_unordered_sets due to safe removal of elements not being possible
+    Changed database rowId to correct signage (signed)
+    More minor fixes
+
+commit 97e6be2a573b3478d85d2135ea04186a14f50e64
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Oct 26 16:34:14 2020 +0100
+
+    Flatbuffers now compile with CMake
+
+commit c68ed743ead7ef0089c1bdb2d5456569f70069e0
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Oct 25 20:15:45 2020 +0100
+
+    Started using flatbuffers
+
+commit cfdefceba2d5354f84d757065ccf020ba8416985
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Oct 25 02:12:47 2020 +0100
+
+    yeet
+
+commit b40fa7d43912d8dff00a32d8439d81bec9a83658
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Oct 23 18:48:45 2020 +0200
+
+    YEEEEEEEEEEET
+
+commit c69f6ed08428c1dbf4a8a4e8ed5c9baaf7a73b11
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Oct 23 17:58:19 2020 +0200
+
+    Delete .travis.yml
+
+commit 74aaee53125b38e2dac528a029cf22efa40eb31f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Oct 23 17:55:23 2020 +0200
+
+    Update and rename ci.yml to ci-ubuntu.yml
+
+commit 92a4854b94da8367bc839eafa9f7aae5f887d22e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Oct 23 17:48:23 2020 +0200
+
+    Create ci.yml
+
+commit fbdacb7e5f16a5e14d14701fb1e2084d8e5430c7
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Oct 23 09:27:32 2020 +0200
+
+    dont make it python3
+
+commit 30bdefc436c4aa88242b5f6f1cfb8395b9f2a40c
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 22 19:02:21 2020 +0200
+
+    added shared_ptr and FastBinaryEncoding
+
+commit dc739361cfff7b6d961714c0ac84c8958756d48b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 22 15:08:46 2020 +0200
+
+    Improves server, and changed more to use FMT
+
+commit 835fc32f40896e6ec6589d29514e3f0f1e25ff2f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 22 13:03:27 2020 +0200
+
+    Using fmt
+
+commit 2534e4db69b7c83441c54285272584bfbfdb0864
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 22 01:27:59 2020 +0200
+
+    yeeet
+
+commit d87c273d5bf98a8e63e975e5af9fd82a9718b95f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Oct 21 22:53:39 2020 +0200
+
+    UWUWU
+
+commit 3aac59884556829cc2a5c16c031dfac35372a94f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Oct 21 17:45:15 2020 +0200
+
+    yeet
+
+commit 6cc5f8b908c403f351fce94bbb7b8d57411bbd1f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Oct 21 14:33:09 2020 +0200
+
+    get_size_needed_for_type now works on MSVC2019
+
+commit 9f49e929b4700e5ed2abeb2df8d680cea48c180e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Oct 20 17:13:10 2020 +0200
+
+    contexpr and const ref args
+
+commit b3cf12865ef79e913b6a33bbfc17cc745b465fd1
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Oct 20 16:42:39 2020 +0200
+
+    holy shit templates are awesome
+
+commit 63bb3e96741c809fac7c0a402f913383b211bfee
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Oct 20 13:11:54 2020 +0200
+
+    Enable interprocedural optimization
+
+commit 23fb18e4c35df49eb1df11d0320058d2ddf7d7ba
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Oct 20 03:15:17 2020 +0200
+
+    i have no fucking idea...
+
+commit 4e1306db871fdb742e6b12e559a715a7bef3163f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Oct 19 17:22:17 2020 +0200
+
+    dfhadfgdfa
+
+commit a3832c0b7299f8f8595a8fba60fafcf4104daabc
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Oct 19 17:12:37 2020 +0200
+
+    jlhbkjhb
+
+commit 921d11cb89596cdc06866afa62bf8ab5764f6bb8
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Oct 19 04:28:51 2020 +0200
+
+    uwu
+
+commit 14cba4ab387ce491c58b4807343849faa936c372
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Oct 19 03:23:22 2020 +0200
+
+    Added collar code for arduino
+
+commit 6a2f52ba8662589ae80864c6f2fc5401a9e491a5
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Oct 17 15:53:44 2020 +0200
+
+    changes
+
+commit 887f9c98a1ae625194936abffcee99f9a1cd2a57
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Oct 17 00:46:23 2020 +0200
+
+    Database stuff
+
+commit dc357aa4b97cdc07bdcebc0635633ab498850d52
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Oct 16 17:45:30 2020 +0200
+
+    OwO
+
+commit 4747b37075924ece0913b83ad8ef30ef46407583
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 15 23:11:53 2020 +0200
+
+    YEETED Qt from server
+
+commit cc2bbba7c71b2cd3c047997865e37280b37557d9
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 15 16:38:41 2020 +0200
+
+    yeeeeeeeet
+
+commit 08e8d830bc87e305fcd03f1b20dfe3d44134b071
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 15 01:54:03 2020 +0200
+
+    dfashsgfhsgfhsgfh
+
+commit c2edcf18b5bf79c2f9009d4e4186e7d2b2451497
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Oct 12 15:36:13 2020 +0200
+
+    aodefg
+
+commit 02571d398bd1ee5569eb79a5b47c618f8e094b8d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Oct 11 22:58:50 2020 +0200
+
+    rdeoa<ihf98ivgade<frhy9p8dfzguh
+
+commit 33dd149fed09ce89e632f9a8b52cb7d63964c3c9
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Oct 11 02:28:52 2020 +0200
+
+    updated some submodules
+
+commit 0dcf7852ae70201f2b2c22db623bbfbd6265cbe2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Oct 9 20:19:50 2020 +0200
+
+    Update README.md
+
+commit 0c0e9e3ef962b1ef5bf50cbe91c3e800c094749a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Oct 9 20:01:58 2020 +0200
+
+    MOREEEEEEEEEEE
+
+commit 45daabbcda7acd71d8f2f94f51b91e8c50b17249
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Oct 9 01:23:24 2020 +0200
+
+    polishing server
+
+commit 05f8add71fd04fb3924763c61c5df9810a64f413
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 8 23:11:31 2020 +0200
+
+    Implemented broadcasting
+
+commit 62224fc90506d2f3a4881847824b18d63d6b585b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 8 22:56:46 2020 +0200
+
+    Fixed weird include error on windows
+
+    Because of some retarded windows stuff you need to do these specifc includes in this order:
+    #include <Winsock2.h>
+    #include <Winsock.h>
+    #include <windows.h>
+
+commit 9d3cf1572489ef04edbd6c39f20758f202af5c3c
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 8 19:03:44 2020 +0200
+
+    lowercaseeeeeeeeeeeeeeeee
+
+commit 243825efeb6f3bfccc2773e802dbaa3f1bf23010
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 8 19:00:36 2020 +0200
+
+    WEEEEEEEEEEEEEE
+
+commit d4118cf485fb81ff5012b6f478710e978a27f8af
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 8 12:43:36 2020 +0200
+
+    Dont use sizeof() on arrays
+
+commit 2b4f8baa65781a431728cc833d968b8e89dce543
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Oct 7 19:14:32 2020 +0200
+
+    Dont use sizeof() on arrays
+
+commit 22ed2f11c8df8205bacf0ca981a75510de5077c5
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Oct 7 18:08:23 2020 +0200
+
+    yeet
+
+commit e061d55b5f9484db8b193856faf414e94c274c7d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Oct 7 14:15:48 2020 +0200
+
+    Oops
+
+commit 96daccc7bce862101cbf3f3950698221e406b08a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Oct 7 14:12:19 2020 +0200
+
+    Optimization & Cleanup
+
+commit f2b0e33383424f47862e1337116896a0a479ac4e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Oct 7 04:36:42 2020 +0200
+
+    Good progress ^^
+
+commit 8f73d846208f8e718c251eef9fd6242eb54e5209
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Oct 6 21:07:58 2020 +0200
+
+    eeeeeeeeeeeeee
+
+commit 9850802243b99cb43bcef7a71ef2065cdef41245
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Oct 6 21:05:40 2020 +0200
+
+    adsbgiuhhbaefrduoighvaøouidfh
+
+commit 10b84e607d5d3c3a41a6aa901128eeb80f01f8a3
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Oct 2 16:42:25 2020 +0200
+
+    More refactoring...
+
+commit 8bb51ce83629cbf62ed987296d3ac4481204c4d4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Oct 2 03:12:48 2020 +0200
+
+    Began abstracting stuff more
+
+commit c8e4bb082730112ccbd396494b860f67fdf411c8
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 1 17:47:11 2020 +0200
+
+    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+commit c666e90543a3069f8b1a192372e9658364af0ac2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 1 17:21:47 2020 +0200
+
+    UwU
+
+commit 0c1ee6ebffcc7a24748a55ab6f8de6a1826cc003
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 1 02:11:31 2020 +0200
+
+    starting to get shit straight
+
+commit b0e81fbd854aa51c71b5ecd98017950f272285ef
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Sep 27 23:38:56 2020 +0200
+
+    gfsjfsghfsghfsg
+
+commit 0277608131a4c55db8d3b50d8eccca3908319679
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Sep 24 14:24:40 2020 +0200
+
+    did stuff
+
+commit 11822d11426b15ee263dea9592448335e97dc146
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Sep 24 13:23:53 2020 +0200
+
+    Created .editorconfig and .travis.yml
+
+commit 8c10c4e6def4b1cadb9a620c01756ff956458dfd
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Sep 24 08:58:15 2020 +0200
+
+    added handlers
+
+commit d3646c31b9a91353f77a098022a3b162c4fa311e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Sep 23 18:37:25 2020 +0200
+
+    WOOOOOOOOOOOOOOOOOOO
+
+commit 7ef0e4d8b2df14f666090057e7fe5d20c338d85d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Sep 23 10:56:13 2020 +0200
+
+    Simflified architexture detection
+
+commit 10c694adae5d2cc49ec9068049cb3b4398aee6af
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Sep 22 15:55:28 2020 +0200
+
+    UwU
+
+commit f8df9ffe9f0d345cf7a7fc25baeb31dc58c964f5
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Sep 22 06:47:37 2020 +0200
+
+    oof
+
+commit 85457a45239212b47845f94376d99e28a6bb2607
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Sep 21 15:21:32 2020 +0200
+
+    oof
+
+commit a701f092936f9f183781975756dedb8446e9c03c
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Sep 21 09:27:52 2020 +0200
+
+    Dont do -bigobj in linux
+
+commit 306c231a67e0b772f276ab79a5cfa5d09363aef4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Sep 21 09:20:54 2020 +0200
+
+    Fixed compiler parsing on linux
+
+commit e16d86e7930d467928347aded9861979d073d036
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Sep 21 06:31:00 2020 +0200
+
+    uhm
+
+commit a0bc3ca45aad2294f42337a85fea27e5d04bdf52
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Sep 21 06:29:22 2020 +0200
+
+    im trying to redo the message/payload structure
+
+commit 4dc46bb09831d05bd8a5d83b924f79dba63e4622
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Sep 19 19:27:17 2020 +0200
+
+    Ya YEET
+
+commit 18dc35cc65684da42a630676fba09febcaa27b1b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Sep 19 19:25:24 2020 +0200
+
+    Removed escape sequence
+
+commit c0f1ecf85ebb6c90cc0bb4165ae59f4625fe645a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Sep 16 04:38:30 2020 +0200
+
+    Fixed spelling, and removed printing of flags
+
+commit d6d49a50c5c791b7788d3c1b636406c1568966a1
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Sep 16 03:42:07 2020 +0200
+
+    And fuck botan
+
+commit c2c5d4db8ad390dc6482472466f63685393c26ca
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Sep 16 03:41:07 2020 +0200
+
+    Huge improvement to CMake readability and functionality
+
+commit 4a3e0a0227083ea1bc1cc034c97977f8ab4710c8
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Sep 4 14:02:04 2020 +0200
+
+    improved version payload
+
+commit d0f54529bae0b4b24f18a3a7642946c5ca58458e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Sep 4 04:02:56 2020 +0200
+
+    Fixed overlay rescaling, and some rendering
+
+commit 00e59d4d4a5ddc5c5d6e005921e96218305e9c1f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Sep 4 02:34:25 2020 +0200
+
+    Fixed overlay rotation
+
+commit 7532cc7e936e87d22ffc4597032320a43b8edd55
+Merge: b7536e1 94bbb8d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Sep 4 00:49:57 2020 +0200
+
+    Merge branch 'ThorQ++' of https://github.com/hhvrc/CollarControl into ThorQ++
+
+commit b7536e115e27735196b7d74d9761f3baaf8ee7d9
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Sep 4 00:45:52 2020 +0200
+
+    Fixed overlay visuals
+
+commit 94bbb8de8aee6e0fa8849a51a20f079944204d39
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Sep 3 14:41:56 2020 +0200
+
+    Added Qt globally, and improved building process
+
+commit 342a79663e863c10b7d9e595e0462f1d3748d0f5
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Aug 25 15:24:43 2020 +0200
+
+    Create .gitattributes
+
+commit bd7ef9f921bced193a00be71e704dc004b68f821
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 21 09:01:14 2020 +0200
+
+    fixed more setup instructions
+
+commit 01bd296c86a0bf0840ff492c45e17e3d6db10ff6
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 21 08:59:47 2020 +0200
+
+    Simplified instructions
+
+commit ada937ea56e2ef4b3433cceaadb89b8181365bae
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 21 08:54:38 2020 +0200
+
+    oops
+
+commit 9d6f225f15e44d6c556d725583218cfa26f17332
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 21 00:06:07 2020 +0200
+
+    Removed thorq_payload for more optimization
+
+commit 5c28376b69c9cfdd6509e19e02226921812dbde6
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Aug 20 18:16:50 2020 +0200
+
+    Optimized message packing/unpacking
+
+commit 7a1615f34e5024197742b323fd370dbdd2dc4dfa
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 19 17:20:15 2020 +0200
+
+    Removed debug info from compiled exe
+
+commit 9d5cbe86caa53e17ac391992e8ef253cd6d464f9
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 19 15:51:28 2020 +0200
+
+    Fixed indexes for matrixes (oops...)
+
+commit 12a29e49d64341c37758e00eb21a55b21bdb015d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 19 15:44:57 2020 +0200
+
+    Updated matrix conversion formula to row-major instead of column-major
+
+commit 27abbd90ab449a1013ddc81aeef5831566ceea6c
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Aug 13 18:10:19 2020 +0200
+
+    Fixed server notification flags and notification transmission
+
+commit d22591188c17f04686150bbe287eb4834d90c304
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 21:39:59 2020 +0200
+
+    Started work on userlist
+
+commit 6701eaf8178da3cf213a90d99ab0327d3598b381
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 20:28:52 2020 +0200
+
+    Renamed enums to all caps
+
+commit b7c78c0ce49ffdb68635be793aa4f49fa9831675
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 14:30:18 2020 +0200
+
+    Removed unneccesary debugging
+
+commit 25cdff45eb040894be65a7d4244f35fb4c4014c7
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 14:13:20 2020 +0200
+
+    Added collar handling to client
+
+commit 78d4c2df403a02ecfd33dba915829de3121e19be
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 14:13:02 2020 +0200
+
+    Added notification handling to client
+
+commit 7f96ad6f4de699de0c64e0c266724cd21502d5dc
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 14:12:42 2020 +0200
+
+    Improved notification and command payload verification
+
+commit 83592dc736d75fa7e2f6c5a27dd45aa56a503d4d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 14:12:25 2020 +0200
+
+    Fixed warning and error boxes
+
+commit 2c5d03f95dc05fd104f15128b3673cdc2d152f47
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 12:40:52 2020 +0200
+
+    Fixed client sending login on logout, and added more debugging
+
+commit 0748b62d869af749e1463e4a06ae73eeb443802c
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 12:39:10 2020 +0200
+
+    Added hiding/showing of mainMenu and logoutbutton
+
+commit 548a258a51d38683d6c3b2b86e415adc5e84ed75
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 12:36:55 2020 +0200
+
+    Fixed command payload validity checking
+
+commit dcae1c7c0ae2b88b14e35553745b731dd9cd0873
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 12:36:23 2020 +0200
+
+    Fixed server logout and session disconnect handling
+
+    Server will no longer handle logout before session event
+    Server will no longer broadcast that instance has disconnected when a session ends
+
+commit a42cf104216bb4e6b738756e9a0b160109c9e5bf
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 12:29:38 2020 +0200
+
+    Fixed server not remmoving peers from peermap on disconnect
+
+commit d51888033822e53d612d373192d1b1e6c854dabc
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 12:29:10 2020 +0200
+
+    Fixed server login acknowledgement message
+
+commit c1d6564f4217f317b0ed6027541914891a921210
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 12:28:11 2020 +0200
+
+    Added hiding and showing on login/logout + fixes to loginWidget
+
+commit d04797a7e6928a62152094e676c7001c8124c265
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 04:14:05 2020 +0200
+
+    Started work on main widget
+
+commit 5d8b66c6e32d63c9a7f4b9a4dc04aae70ff0de51
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 04:13:41 2020 +0200
+
+    Fixed preprocessor include guards
+
+commit 3be622b10857e933d29b1bc1ad102cfaa4f448ca
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 03:06:54 2020 +0200
+
+    More potential bugfuxes
+
+commit e0be9033a69d5447c9f5051a184f46ce3ba403e5
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 02:21:56 2020 +0200
+
+    Skipping bugs*
+
+commit 1b46a0c422572fda683a8a723e066d8ef5b60a8b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 02:19:13 2020 +0200
+
+    Experimental bug fix
+
+commit f2d68f5eb1e7b1dc91079fa9fa140c7cb8f70b9f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 02:14:22 2020 +0200
+
+    debugging :c
+
+commit 01e6b06c2baf5935b938df960b32c8a99217f5ce
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 02:08:53 2020 +0200
+
+    Added more callback and removed unneccesary checks
+
+commit 15b6a490f41e1b870c670337083b907dfb8ac949
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 02:02:16 2020 +0200
+
+    Added more message and state handling
+
+commit 164d8c2594d7bd859b543062149c88ea98e75b8d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 01:21:13 2020 +0200
+
+    Added more message handling client-side
+
+commit 16394918c6c5bc4b76f9d8c1341af467df82b42e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 01:19:18 2020 +0200
+
+    Removed and renamed stuff
+
+commit 8e7a3a4dc478c277a8d59f1ff60ac4fb635ebc0d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Aug 12 00:19:59 2020 +0200
+
+    temp bypass to speed up development
+
+commit 38fe64e4eba2d82a4d0ff5593cab64a1a21ce8b2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Aug 11 23:38:45 2020 +0200
+
+    Fixed server printing disconnects incorrectly
+
+commit 36081c8990035931f81f995074d774ff96f06c08
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Aug 11 23:32:04 2020 +0200
+
+    Oops
+
+commit 8fc9eddf94e642d80f24d0b0b86d030cb6ecce35
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Aug 11 23:29:44 2020 +0200
+
+    Added more diconnection handling client-side
+
+commit b3a3273c8897f780ac0e075a87238c046641b5d3
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Aug 11 23:26:15 2020 +0200
+
+    Updated server-side systemid/regkey message handling
+
+commit 5d238fae27f08e5514f441c34f479460771aa30e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Aug 11 23:02:01 2020 +0200
+
+    Material designnnn
+
+commit 19a8908d4e7e90d45d80e6006da91767aa1dc38c
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Aug 11 23:01:43 2020 +0200
+
+    Oops
+
+commit 48419321bf2828f913e8a0b0327d1acf5d768c7a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Aug 11 23:01:37 2020 +0200
+
+    Finished command handlers
+
+commit 2f4c7e43e158bce0f3ea38cbc752910775a6418d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Aug 11 23:01:21 2020 +0200
+
+    Notification now can have data falgs with them
+
+commit ff73734de54a1b4c7f724c28582b2c122308a9e7
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Aug 11 23:00:55 2020 +0200
+
+    Improved instance and instance event handling
+
+commit 4558fdf44fc92476c8e85ba11759b64b3fa808d4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Aug 11 19:52:23 2020 +0200
+
+    i dont need this :)
+
+commit c1a777f55412b4a0fe67fa31a55b5768d8b116fd
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Aug 11 19:52:10 2020 +0200
+
+    Implemented authentication cache and hwid/regkey lookup
+
+commit b3e75e119e8ea17270de0b5653b55bc382be7206
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Aug 11 07:54:47 2020 +0200
+
+    Started creating authentication bimap
+
+commit 3da39c6d0a764211d1f16f38372617b98df44b7e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Aug 11 07:54:14 2020 +0200
+
+    Trying to get errorbox working
+
+commit 7317d07b5a6be1e75b4b1686040a981ea7c46f47
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Aug 11 07:53:53 2020 +0200
+
+    Improved server message handling
+
+commit 7acda23a135699dea2b9d75631725982efb0fcec
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Aug 9 21:12:20 2020 +0200
+
+    Added and improved client message handing
+
+commit e6facb90bc296138f9463d06c11412ad45ac6e8c
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Aug 9 02:02:26 2020 +0200
+
+    improved client visuals
+
+commit 47ffdc795bb9395ce69da8fbcf070bd368a87883
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Aug 8 20:57:42 2020 +0200
+
+    Removed unneccesary moveToThread
+
+commit 0c2e3f120b88205ba6e2c602a36e4eab2ae476de
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Aug 8 20:57:17 2020 +0200
+
+    Removed more debugging output
+
+commit a12c814d95e4ba2dc8b0a06cb0f5164dd669172d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Aug 8 20:54:58 2020 +0200
+
+    Increased client update rate
+
+commit 48e1cbd8411f80dce536e2f66d2dc6da1880f544
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Aug 8 20:54:20 2020 +0200
+
+    made server use THORQ_SERVER_PORT
+
+commit e78000c861b8d36b6729947f29e6b8cd47bddf0d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Aug 8 02:13:38 2020 +0200
+
+    Potentially possibly fixed a future bug (Inq <3)
+
+commit cf52e7afaac1692a21083853b5d90a9cdd3b42eb
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Aug 8 01:44:20 2020 +0200
+
+    Some cleanup
+
+commit 56fca9d5704b4d54befe138f91f6884079b84fe2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 7 23:59:25 2020 +0200
+
+    Added nullptr check for registeredinstances on server exit
+
+commit ff7cbb50009e336c1fcd7c5b7b1b685086ac7573
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 7 23:57:40 2020 +0200
+
+    added nullptr check before trying to clean up server
+
+commit 21747fada992c9c13371933cff973981a6cc4331
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 7 23:51:45 2020 +0200
+
+    Server now requests regkey again instead of disconnecting client
+
+commit 2027b99671eea5660c22e65dc436bf480f5635e0
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 7 23:51:13 2020 +0200
+
+    Integrated regkey input into login widget
+
+commit a00eb15e2fc0ece486098a7a180d979c68e0e685
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 7 20:37:17 2020 +0200
+
+    Added disconnection and error handling to client along with popup
+
+commit fcf898840ba327b793cbb694204f264f924f39ce
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 7 19:40:15 2020 +0200
+
+    Fixed some server shutdown handling
+
+commit b70fa400fdd61b103a35a5fd80308edbfa7ca0d6
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 7 19:39:49 2020 +0200
+
+    Added nullptr check when setting peer in instance
+
+commit d6574ae4b5a2fadfa362d215d20a1c80bc96fe91
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 7 19:07:51 2020 +0200
+
+    Added debug message for compatible flags
+
+commit 4b3846f17ddda91bb333e8b4e108f8854ee0dcb3
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 7 19:07:28 2020 +0200
+
+    Improved server shutdown, and instancemap function names
+
+commit c92ec3297915dffb2e28b161babd7e43e46b849d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 7 18:25:16 2020 +0200
+
+    Disabled encryption for version reporting
+
+commit c8ef95d83db046ad8088d3524fc61a681d5fd752
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 7 18:23:18 2020 +0200
+
+    Added version reporting to server
+
+commit e5a835a42debf0080e12a33ad757f4d94d376687
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 7 18:23:07 2020 +0200
+
+    Fixed client spamming regkeys
+
+commit d0c0331e61fc4bc079190161cf9f34f602b4a994
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Aug 7 17:42:05 2020 +0200
+
+    Optimized exceptions, and changed debuggin clientside to qDebug()
+
+commit 7bca962426881b107908d3f875cacfd7a32bcea2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Aug 6 19:56:53 2020 +0200
+
+    Improved client performance and signal handling, and added regkey dialog
+
+commit d6c3b1ebae3b5e295f6ae6319051354495e6c8e3
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Aug 6 19:56:07 2020 +0200
+
+    Fixed server crashing on too short auth message sent
+
+commit 59a30b7159adc6c2d1f1e90b6306d7d3c655c487
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Aug 6 16:45:12 2020 +0200
+
+    oops
+
+commit bde2e5e869f6b9bf701e31a7799b06d3aa759378
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Aug 6 16:29:55 2020 +0200
+
+    Improved partner session handling
+
+commit 3a2addfd7e074f6627e11998e21c21df1809e730
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Aug 6 15:52:21 2020 +0200
+
+    More readability n cleanup
+
+commit 1556b92fd45aba6f2239125e3f793f88b63f26ed
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Aug 6 14:34:02 2020 +0200
+
+    Silenced unnecessary warnings
+
+commit 90863bff2b4f07c203d59fa0cabe816fa792cec9
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Aug 6 14:24:38 2020 +0200
+
+    Added version incompability
+
+commit e0272eadbf3c939c5659e49e670a8ca4c4a61af4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Aug 6 14:24:17 2020 +0200
+
+    Moved some client constants
+
+commit ce00980c3dc43ab4e14bdcbdc4e8f6c5aa3dcb8d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Aug 6 14:23:53 2020 +0200
+
+    Code cleanup, and optimization
+
+commit eeb0fbd2dff5b31d69230ebc9609f425c449b33d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Aug 6 11:42:50 2020 +0100
+
+    Added json library and removed test code from KeyGen
+
+commit 4c0a0e5e0cd3766fd1cadc4c937267cce8313981
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Aug 6 03:42:24 2020 +0200
+
+    Okay... I did alot of stuff, and this is a horrible commit message, but... Fuck off
+
+commit ecc9a19f1131dbc865b9c898559dbd0c07b2b701
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Aug 6 03:41:24 2020 +0200
+
+    Added KeyGen target and made server compilable on both windows and linux
+
+commit 428a7bc392f5877747d28f740016aa8c21622f8f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Aug 6 03:37:22 2020 +0200
+
+    Added events, and announcements, moved session
+
+commit ae8dfde51f8d72cf041002eff41761d0b6db31b1
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Aug 6 03:27:48 2020 +0200
+
+    Added stylesheet to resources
+
+    Application will switch to external stylesheet if it exists
+
+commit 7054cf579f4762435ca2b477e52ac9fe5e7c8032
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Aug 3 14:36:16 2020 +0200
+
+    Fixed server exit handler for windows
+
+commit 6a998b1dbe799dc46a57f67873c2e63ab466bf37
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Aug 3 14:35:35 2020 +0200
+
+    Added saving and loading to cryptography class
+
+commit 2def105d27cabde6ee21cb1c37d49f714807082f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jul 31 12:21:17 2020 +0200
+
+    Turns out CMake knows how to compile .rc files
+
+commit 1a6f94d20fc30a49eddaa029714076d8a3d41cff
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 30 05:49:08 2020 +0200
+
+    Change algamation dir, and fixed indentation
+
+commit a5594b5292cebcbf21e6c6a45d1bf43e0716b2f3
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 30 05:48:41 2020 +0200
+
+    Moved resource file to build directory after building
+
+commit 635b496d8c7d5d8af33b7849c5f2adef36351d66
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 30 05:15:01 2020 +0200
+
+    More error checking
+
+commit 16b9289d71e6b75240db7d33a51aefc1630e9542
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 30 05:02:58 2020 +0200
+
+    Yeah... wtf windows
+
+commit 75423bc23260aef6a2778b1386e13c49c04203c2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 30 05:01:51 2020 +0200
+
+    Configured icons, descriptions, and versions for windows
+
+commit 2bc3ec7c7aebb292032ecb4169dfa696061a82e1
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 29 17:45:27 2020 +0200
+
+    Started making windows resource file
+
+commit 1b5fc70e7cb99ed00674b1018ac0d41c433e93ad
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 29 16:52:02 2020 +0200
+
+    Added windows resource file, and renamed Qt resource file
+
+commit 1478612a6216eefe549bd80d7a49a1ef11f9c2e4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 29 16:29:33 2020 +0200
+
+    Handle errors, and mark unused code
+
+commit 5a38ff2943aaf239a3df0b00627e6ceeef8d5515
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 29 16:28:05 2020 +0200
+
+    Supress enet warnings
+
+commit 9f3732a625036860f65b2b6a70ff7b4645eb9914
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 29 15:52:11 2020 +0200
+
+    Updated botan and enet
+
+commit 23f91bd8413345214306ca77cbb578806c6fa406
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 29 15:50:47 2020 +0200
+
+    Removed enet warnings
+
+commit db0376e2dbdf604c73ea473a165c9513697515b4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 29 15:18:53 2020 +0200
+
+    Added name for typedef
+
+commit c78b8fb80cf5cb06de8515fba1286d9b74f6628f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 29 15:18:18 2020 +0200
+
+    Optimized version to_string function
+
+commit ce33cb9f76796441d37662fd571ee5628adeb072
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 29 15:16:19 2020 +0200
+
+    removed [--Wunused-parameter] warnings
+
+commit 4fc7771c54db3f11eb0a00577899ad28a8ebb90a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 29 14:07:03 2020 +0200
+
+    added linking against minmm
+
+commit f7f31995afb6b02a5fdceeb02d8bab5a3c71bb3f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 29 13:28:04 2020 +0200
+
+    Fixed ALOT of fuckery
+
+commit 40e40a29b492733c122b706b6ef7b48b7fc2babf
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 29 13:23:48 2020 +0200
+
+    Fixed more include stuff
+
+commit 3735fc2fb40df1c1df88f17cfc88d05af42a3625
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 29 12:46:44 2020 +0200
+
+    Replaced singletons with utils, as singletons is included in utils
+
+commit 1d011ecabecdb6f075f9cf64c5696a24e124e602
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 29 12:40:39 2020 +0200
+
+    Fixed server include structure and namespacing
+
+commit f97b7b1d5653c3a13bc0985b67408809edf1f42d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 29 02:14:14 2020 +0200
+
+    Fixed process monitoring for windows
+
+commit e28f4e1641c84d8a177121adfdc4c9bd2a0086af
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 29 02:13:59 2020 +0200
+
+    Improved VR controller input and overlay positioning
+
+commit d784bdd84d83cb880ae880a26da187f74ef1c567
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 22:26:34 2020 +0200
+
+    Fuck windows
+
+commit 2b46508f853bd0e5dbbeadc670292de1fcde3e21
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 18:28:38 2020 +0200
+
+    Redid client data handling
+
+commit 7acfff99832980957597e750f362de65ae10c74e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 16:50:59 2020 +0200
+
+    Message format now support up to 65535 byte payload
+
+commit 97560beac3e3e1e0d543376e9e7515e66a707904
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 15:28:10 2020 +0200
+
+    Removed test code
+
+commit c8534a80901180b7efe81ecb3482e2c9b6611af2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 15:27:55 2020 +0200
+
+    Set default values for singletons
+
+commit aab16a3779c58e7d1f837e13ea79e472449980a2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 15:27:34 2020 +0200
+
+    More work on handlers... (mass unordered fixing)
+
+commit e3be43642928f11c5609b4cb948d4e339d366675
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 15:26:31 2020 +0200
+
+    Improved server shutdown cleanup
+
+commit b51feeeaa4d0032c07846b157085252bfb287561
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 13:35:10 2020 +0200
+
+    added is_valid for commands, and notifications
+
+commit 154d11fefb2e7f16a5e421d5946b1d9bf9424a7a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 13:34:38 2020 +0200
+
+    Cleaned up eventhandlers, moved logic to messagehandlers
+
+commit 4dc8365cd61383d51269bbea3b0cb40bff1ba1b7
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 13:34:07 2020 +0200
+
+    Added disconnection handing into instance
+
+commit fc1cabbd18bdeb1019f34583fe7b81e46eb087a5
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 13:33:23 2020 +0200
+
+    Cleaned up instancemap, removing unneccesaty functions
+
+commit d0a9fe49e22d7a3e750fceba0cf61ab81391472d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 12:46:26 2020 +0200
+
+    Indentation fix
+
+commit 1895e8f1f5b74f8ea1f6067201b982c4c73283da
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 12:38:49 2020 +0200
+
+    lowercase, because fuck windows
+
+commit ec225133305da668882a1f21b8bb6c33f6a9b180
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 12:38:29 2020 +0200
+
+    removed payload_acknowledge
+
+commit 295cbebde2a95c841589bf1ed78d58b8a03349a6
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 12:38:10 2020 +0200
+
+    renaming, and added authState to server instance type
+
+commit 771932bd2f3b0e1bcf31cde880074287885dedf4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 12:37:39 2020 +0200
+
+    Moved functions to different files and organizd/renamed stuff
+
+commit 60e6d7c06c8c36c3d8274537b83a1a1366b84074
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 28 02:04:50 2020 +0200
+
+    Started creating serial class
+
+commit 7ede97fe7a122af61e82905a510fe01efe518c84
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 27 20:19:19 2020 +0200
+
+    Removed console in windows applications
+
+commit 89f73e9ca060f2845eb4a5be4664e8c10f2f09c3
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 27 19:03:11 2020 +0200
+
+    Added session payload
+
+commit 7cab4ad7c1630530080065ac5b091ab580618e15
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 27 18:36:46 2020 +0200
+
+    Set version
+
+commit 58f0486518f31e24fb2b25b1a3156a4b6eeca1ea
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 27 18:34:52 2020 +0200
+
+    Started adding authentication and payload handling
+
+commit b4287c2d9cd6ca0cf7b8a02a691e4eba3a8f4e72
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 27 18:33:54 2020 +0200
+
+    Declaring Enums from library
+
+commit 42aea644cfee6ab1ef899bdb091f51f608ff3143
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 27 18:33:17 2020 +0200
+
+    Fixed data handling, and added more payloads
+
+commit f03dec309a2bb7b8219f00ad4a37f90c5fd237cb
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jul 24 19:40:45 2020 +0200
+
+    More message format stuff
+
+commit eae1e604ba97382e79ebcbb319348aeda6cc6b1f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jul 24 12:28:45 2020 +0200
+
+    Oh yes...
+
+commit ff443d613f1094bae4b8223fb98c8529cd50c32e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jul 24 08:14:46 2020 +0200
+
+    Mooore enums + renaming of some
+
+commit e6beebb5d021d1a7e72ae1c17c09069cd9ec48b2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 20:02:44 2020 +0200
+
+    Fixed systemid for windows
+
+commit a929e9590a1bf82fceb016dde1e90cbd695c75bc
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 18:17:03 2020 +0200
+
+    Fixed namespacing errors
+
+commit d1e3002588f842f95dfc86f7ef8a015efb69f3a6
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 17:10:24 2020 +0200
+
+    Renamed more stuff
+
+commit 52bf6ef6f0cf7256f48a668ec9a21788591ed7d8
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 17:09:09 2020 +0200
+
+    renamed variables
+
+commit 10ea3d735de88ca327b4b20b4d4b7d272125a519
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 16:47:01 2020 +0200
+
+    Now builds as Release by default
+
+commit 2bca83b069ca8b32ead0b004a5da66b4f3fb4e4a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 16:38:12 2020 +0200
+
+    Made Library more clean
+
+commit dd39a0d065ab1c882f43d801979104f540344f44
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 15:50:02 2020 +0200
+
+    More enum refactoring
+
+commit 195455e210e3da16881fdcac5d7afd0686e5f13f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 15:48:49 2020 +0200
+
+    Added SystemID handler to library
+
+commit 152d7c38a1bea3acbf2cc41183405d1f100a0432
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 11:37:00 2020 +0200
+
+    Updated enums and enum documentation
+
+commit 51a3ba8a74fffcc71112c289aca51f16bd323f5b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 11:07:21 2020 +0200
+
+    Changed constants to constexpr, and started doing versioning
+
+commit ed748762631d5fdca660e34dc8d751334515ec5f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 10:56:03 2020 +0200
+
+    Enabled exportin gof compile commands for analysis with SourceTrail
+
+commit cae5f19026ed9b06a49b61072106a1be33f448ad
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 10:35:59 2020 +0200
+
+    Fixed alot of handling server-side
+
+commit 7516ec181af4c10856ac523900902faaabc37037
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 10:35:36 2020 +0200
+
+    Added enum for invalid message
+
+commit 4adbba6201a1a76c698183c340687b493a7748e1
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 10:35:19 2020 +0200
+
+    Documentation and tweaks
+
+commit d1d97bec11af420ddddb08f0ee97772aecd80f6b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 10:34:54 2020 +0200
+
+    Completed base message type and serialization functions
+
+commit 91f34952a7508d69560d793e5eb4bb5bce3d4f53
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 09:38:07 2020 +0200
+
+    Documentation is important
+
+commit bc1bea34874ab58ac2fe56b02294971a214a7dcd
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 09:37:48 2020 +0200
+
+    Gotta stay standard compliant
+
+commit 68f076d0456a676b3f9ca4386c52cc5e3fae0d31
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 08:50:34 2020 +0200
+
+    Fixed self-deletion for linux
+
+commit 0007ee2cd32716ed5c395d57bc691ce9ff9bced4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 00:51:35 2020 +0200
+
+    Experimenting with thorq_message_t
+
+commit f756e202d248b01610240e150dc5731dc66600f8
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 00:49:56 2020 +0200
+
+    Renamed crypto functions, added documentation, and alternate functions
+
+commit 1a11e1b392b44697989541c9d89055d205820f5c
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 23 00:46:49 2020 +0200
+
+    Improved login window behaviour
+
+commit 8f1c685f9407cedb76e9fe5b0379599e1626c4fe
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 17:58:06 2020 +0200
+
+    Started documenting stuff
+
+commit 74037d93115ab94db850400cc8db6adaf386292d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 17:57:22 2020 +0200
+
+    Made self-deletion work cross-platform (i think...)
+
+commit 6aedd4c71c61e89248e2336e96b81884dfdd32bf
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 16:09:59 2020 +0200
+
+    Added exclusion for autosaved files
+
+commit 8bb42abe0835ff739d3b554b70323d3d5ce164f1
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 16:01:44 2020 +0200
+
+    Removed stuff from instance class
+
+commit ccd426907bc64d4d97d6c172eace263af109dbcc
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 16:01:21 2020 +0200
+
+    Started adding encoders/decoders to announcement type
+
+commit 35bcc9eea272fc9b6328094c9703cf977656ea56
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 16:00:05 2020 +0200
+
+    Added encrypted message type
+
+commit 034b9f170a1f1fffc03aa1813e00476e28bd029d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 15:59:27 2020 +0200
+
+    Removed client message functions
+
+commit f956f2bb5fba3d66443370d85cd65493e1dbb7ae
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 12:29:55 2020 +0000
+
+    Fixed typo
+
+commit 53fc6e266578b2952465018b4215c1ac0adf25b8
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 14:21:30 2020 +0200
+
+    Implemented state system into instance
+
+commit 5e31e5fdf78dff523ef244232846cf5956f547cc
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 13:59:41 2020 +0200
+
+    Wont ping when reconnecting/disconnecting
+
+commit 7be57d34f88bce074eace8122cd5258ccd8c015a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 13:58:23 2020 +0200
+
+    Improved client connection action workflow
+
+commit 241698810317e6c2f4ddf1c1c29196e2764a9c78
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 13:53:44 2020 +0200
+
+    Less atomic operations, cleaner code, and more synchronized
+
+commit d40b94e8c989abff47595882400d3da1b8b47f5a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 13:33:45 2020 +0200
+
+    Added reconnect enum
+
+commit 26844d94a698a6865055bf6fc3ec51700d4fc973
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 13:32:12 2020 +0200
+
+    Fixed indenting errors in enums
+
+commit 16677839428cc5f1c03edce75f7b6d00e325d02b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 13:27:58 2020 +0200
+
+    Changed spaces to tabs
+
+commit 61abea8d23b208636668aa08500d035d98c817b9
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 13:18:39 2020 +0200
+
+    Fixed bit alignment
+
+commit 9ffe94d26d8079c772701f07a203e538de761a3f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 13:11:58 2020 +0200
+
+    Updated state setting in client
+
+commit ae5aac0fcd4d1d94ba5c1e6c004cd2039a80dd12
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 12:37:10 2020 +0200
+
+    Forgot to change after rename
+
+commit a1bd25146349b8885bf50e40741ebe4ae90b6e3a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 12:36:31 2020 +0200
+
+    Started fixing client states
+
+commit 18b6835bd61755e0c860baedff3c5f147ab3a001
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 12:32:10 2020 +0200
+
+    Renamed some states
+
+commit cfdfe3af0cb76b8c84ce004150a8c090b9097ec6
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 12:30:57 2020 +0200
+
+    Moved version definitions
+
+commit 13c9fdca040f6b7a0526dd2e63e603dddf95a858
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 11:42:30 2020 +0200
+
+    Why did i comment this out?
+
+commit 5b82cda6bec3be2087767313da3fb09599c1daca
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 11:42:19 2020 +0200
+
+    More structuring of enums
+
+commit 556ebeeeb243a48b350bf00089fff014d5b6ebbf
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 11:41:50 2020 +0200
+
+    Redid message
+
+commit a30b0dabee06b0ff0f975dafe847a829e5871477
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 11:31:21 2020 +0200
+
+    Seperated types into different files
+
+commit 055564d01e5384d73922f3577b0e99d83f8c1016
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 11:29:05 2020 +0200
+
+    Updated Constants
+
+commit a836b1f714522cbf0779bbcb0fd5881c7fa1050b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 22 11:25:05 2020 +0200
+
+    Neatified CMakeLists a little bit more
+
+commit 4f956c7b7db06f1feead81f57419e2685dafda66
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 20 22:46:28 2020 +0200
+
+    Updated anums and types
+
+commit 0e42cdce861974b191dc2eaffaeaac632549f817
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 20 21:48:24 2020 +0200
+
+    Added types and redid enums
+
+commit 466985b0840d64d71256de80b87452736030d9ca
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 20 21:47:42 2020 +0200
+
+    Fixed crypto and constants
+
+commit cc32625076b2437d41736842fd2568e4e46efccc
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 20 09:27:21 2020 +0200
+
+    Restructured enums... again...
+
+commit bea6f4bb62e90ec27640adf1618b6e3085e41f3d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 20 09:17:31 2020 +0200
+
+    Added more constants
+
+commit 6696fe480d4f36f45717f8cedbba44c2a0c0f860
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 20 09:13:25 2020 +0200
+
+    Optimized encryption class
+
+commit cd4f0df71668f5e9edd39bebb2582f63752265b2
+Merge: 7c55ad3 cddd28e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 16 12:26:09 2020 +0200
+
+    Merge branch 'ThorQ++' of https://github.com/hhvrc/CollarControl into ThorQ++
+
+commit 7c55ad32079b5cdaae095457e1985180ad70b6e7
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 16 12:26:00 2020 +0200
+
+    Server is communicating again
+
+commit cddd28ebb5372674f8e6669268445f6412f7ff90
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 16 12:25:26 2020 +0200
+
+    Client is communicating again
+
+commit cb5db8aff38a8b615a6b54c7b8b8f566d9ce3122
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 16 12:15:54 2020 +0200
+
+    Stuff
+
+commit a87ff71c46e235974245a8cdda584462ba164d3c
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 16 12:12:12 2020 +0200
+
+    Compiling for linux
+
+commit 915db14c247062dff8c8ed83fd8f2abb54017c05
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 16 12:05:28 2020 +0200
+
+    Fixed CMakeLists indentation
+
+commit e7f7a1981ab34633fd89cd8cc9ddfde219c4fa40
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 16 11:47:58 2020 +0200
+
+    Started tweaking overlay values
+
+commit d69b6ba1fcca62ecf1205d92b3224a9774b7ebf6
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 16 11:47:03 2020 +0200
+
+    Overlay isnt solid black anymore
+
+commit 7859c26030e3cbe489dba13ed4e9374daa001b4f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 15 04:19:19 2020 +0200
+
+    Did stuff
+
+commit 336ed578c8d18588c30be3d3a6e4c49a8ee1d63a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 15 04:18:38 2020 +0200
+
+    VR Controllers now can show/hide overlay and time out
+
+commit d23dd73efd68df6b31b4574d0ca39b7290e686da
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 14 14:45:37 2020 +0200
+
+    Using collar int for collar flags
+
+commit b77d6f0c2661ee46e8c890c0d4b59b724b2b9d50
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 14 14:33:21 2020 +0200
+
+    Improved ping, and added it to the GUI
+
+commit 8f3d8c1214e8ae21fe17b77a82e6df7195968825
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 14 14:30:24 2020 +0200
+
+    Renamed and repositioned stuff
+
+commit be985e6de323743a99a31d68587f77c5ff3d4a46
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 14 14:26:20 2020 +0200
+
+    Added deleteme XD
+
+commit e5a6e07cc9cba78d42692760737322d48d1060ec
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 14 14:08:25 2020 +0200
+
+    Controller offset now works
+
+commit 5faee4600ad41e1bf2e248e2588b0d8db0ff29fa
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 14 08:29:22 2020 +0200
+
+    Fixed an oopsie + more
+
+commit c891e3e20600dc1efb1017c10e2dbf78c3da8b31
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 14 08:24:40 2020 +0200
+
+    Fixed handshake and added verbose
+
+commit e2daace1aa7f8f6d77bea31b884ba658f98c0c5f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 14 07:16:42 2020 +0200
+
+    Improved crypto
+
+commit 2ca2d34de6ed5490cf445c0ac3332226d415198f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 14 02:03:21 2020 +0200
+
+    Setting client state to connecting when client connects
+
+commit 05715f40979b908fa7f1550d6c4998a32836a694
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 14 01:40:06 2020 +0200
+
+    Fixed address to to string function
+
+commit b0b3fda6a71f9dc2c8d12f568450a99db1513f76
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jul 14 01:36:32 2020 +0200
+
+    Removed network convertion which cleared flag
+
+commit 54ca895853e12c7892310b4730800aaac7614d06
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 13 23:04:28 2020 +0200
+
+    Added missing include
+
+commit cdc3fcdd0138e48d3bc9eef4f5da68e5b527031b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 13 23:04:20 2020 +0200
+
+    Commented out windows code
+
+commit 216ac5f7c629ecb944788749a330a43d035605df
+Merge: fd07786 5615c79
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 13 22:42:11 2020 +0200
+
+    Merge branch 'ThorQ++' of https://github.com/hhvrc/CollarControl into ThorQ++
+
+commit fd07786d37de7ad2966953186dbeccc1fcc0665a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 13 22:41:45 2020 +0200
+
+    Added serial class, and modified procmon class
+
+commit 5615c79f3cc1d8068d186d0b52cf1053decf2370
+Merge: 0f46652 baf4ed5
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 13 22:24:23 2020 +0200
+
+    Merge branch 'ThorQ++' of https://github.com/hhvrc/CollarControl into ThorQ++
+
+commit 0f4665239e1ac6132d7e716ebe746f3d4a0c9608
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 13 22:24:20 2020 +0200
+
+    did stuff
+
+commit baf4ed506986663e8d2ae62a20d713854f230ab4
+Merge: eea847c bbeafad
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 13 22:19:21 2020 +0200
+
+    Merge branch 'ThorQ++' of https://github.com/hhvrc/CollarControl into ThorQ++
+
+commit bbeafad2887cd605070bce3c175602d9c727ef7b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Jul 12 22:25:25 2020 +0200
+
+    Lots of stuff
+
+commit 19a0c2d5dd6e988023f1e593cf27ba9758026cc2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Jul 11 19:20:38 2020 +0200
+
+    Improved crypto rng, and added random data generator
+
+commit 5049a8a70d25b361dc41390edabe274be6d6d1de
+Merge: 3723bdc cd5528e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 9 02:07:22 2020 +0200
+
+    Merge branch 'ThorQ++' of https://github.com/hhvrc/CollarControl into ThorQ++
+
+commit 3723bdcf09fc6ccc4bf041c18e98cd2c0768bdec
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 9 02:07:08 2020 +0200
+
+    Started implementing QWidgets
+
+commit cd5528e723f8dcfdd77974a6aeacd93c56742175
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jul 6 14:00:49 2020 +0200
+
+    Update README.md
+
+commit 5fb46d29cc5b2d6d86f78bf5e4afbe155695ffd8
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Jul 4 01:18:43 2020 +0200
+
+    Ughhhhh
+
+commit eea847c243c63e086227ec7de7bfe51f92972be2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 2 14:14:42 2020 +0200
+
+    Oops
+
+commit ac0865bc574d44209443cbc9c0c4deca121c7dd4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jul 2 03:09:42 2020 +0200
+
+    Mode customizing, overlay working
+
+commit a4933648dc5a4e63d0013352aa7297a66d7ddf45
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 1 17:12:40 2020 +0200
+
+    Compiles on windows
+
+commit 5fa8b6947d1e4b54735a5899d88f230e86219bbf
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 1 16:09:54 2020 +0200
+
+    Started customizing ovr-controller
+
+commit 518e754a37ac2ba35f24d5033f9363640be3b683
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 1 12:11:04 2020 +0200
+
+    Fixed segfault
+
+commit 990d7787e1b6074c63bd3c99c5f78524b22cf37a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 1 11:49:59 2020 +0200
+
+    Added OpenVR
+
+commit d606423d62ba4b0f94b1a2b568290f07a0277d85
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jul 1 00:35:36 2020 +0200
+
+    COMPILES ON WINDOWS YEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+
+commit 1298c961c097c3ed38840333b84658e45b68092a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jun 30 21:21:22 2020 +0200
+
+    Added windows compiler flags back
+
+commit 9b2314b2acff6d92544dfee9b1cb0d6d5356827e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jun 30 20:43:52 2020 +0200
+
+    OOF
+
+commit 9ce68728c523624b4600a5fd8770935789d2c7d3
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jun 30 20:43:14 2020 +0200
+
+    fixed "linking" issue
+
+    https://github.com/randombit/botan/issues/2383
+
+commit b9fa3bb253383c90ef0476b7b456911d73ba470b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jun 30 17:01:23 2020 +0200
+
+    forgot to click Ctrl+S xP
+
+commit ad36a3c6f59803588d08e4982b73f0de814e6bb5
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jun 30 16:59:58 2020 +0200
+
+    [WIP] Converted client to use Qt
+
+commit 0713e338c68bdf9e2c71090a13bed517fcfb4932
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jun 19 20:05:05 2020 +0200
+
+    PROGRESS!!!!!!!!!!!!!!!!1
+
+commit cd7dbacd46c0f5398f197ae396d9c88c839d827a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jun 19 16:49:19 2020 +0200
+
+    Fixed crypto "algorithm not found" and non informative exceptions(server-side)
+
+commit 50ff808d12465e64eb075a475790a6706fc0056a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jun 19 16:48:34 2020 +0200
+
+    Made Gui re-instanciable
+
+commit 0cd6dc8f048305512a93e98a123b874726376272
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jun 19 16:06:47 2020 +0200
+
+    Gui example compiles on linux
+
+commit 19a122a46905ec858854d22431ec134de67fe867
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jun 19 12:16:57 2020 +0000
+
+    Update README.md
+
+commit 778dc601dc39b98071e7a1176d156f653964b055
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jun 19 12:15:46 2020 +0000
+
+    Oops...
+
+commit 9a35c4033ad95ecc9931b03fa7f6ad62807ff6e2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jun 19 12:14:46 2020 +0000
+
+    Update README.md
+
+commit 08ccc947678c66fba96670fbcbf3b3983b43f7d2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jun 19 13:59:16 2020 +0200
+
+    Started implementing GUI
+
+commit 52dbed55a02e7a18acd8cffdfe8478a3f41c0754
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jun 19 11:32:09 2020 +0200
+
+    oof
+
+commit bd18a50310a354f92ebb157f8a8ada389f43c569
+Author: hhvrc <github@heavenvr.tech>
+Date:   Fri Jun 19 11:24:09 2020 +0200
+
+    Please tell me this fixed cancer ;w;
+
+commit 3317d1e94bc5e583b48cbe55b80fb009cea2f4bf
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jun 18 01:12:32 2020 +0200
+
+    Windows is still cancer.....
+
+commit 6353f8a4a400efc9f91757f5d2541b315be509cf
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jun 17 16:02:02 2020 +0200
+
+    Did stuff
+
+commit 73a811e87bede71755e9688ecfb114a3e24b7913
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jun 17 13:58:36 2020 +0200
+
+    More flagssssssssssssssssssss (and made verbose optional)
+
+commit 913815931b2b09ce6be3a830291bed031dedefbb
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jun 17 13:58:02 2020 +0200
+
+    Changed catched exceptions to some that actually tells you whats wrong
+
+commit c9374249bd4eeac9751f136ca551afa7b8f98278
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jun 17 11:45:37 2020 +0200
+
+    Cured cancer on linux
+
+commit a17846bde06977490eb31c5a20488909e3a144dd
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jun 16 23:19:41 2020 +0200
+
+    (Tried) fixing cancer causing more cancer on windows
+
+commit 2178175fa7c72a37e954ee88c891b1c5d7b627cb
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jun 16 15:41:53 2020 +0200
+
+    De-Cancered a bit more...
+
+commit 1ad86d56a574d9313cc31b64b2b4b80d4cffd11d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jun 16 14:52:10 2020 +0200
+
+    BigBrain time to cure cancer
+
+commit 35119a20e9d465d6395754472e8633336fdd4c3f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 17:22:17 2020 +0200
+
+    CANCER
+
+commit 6391ed143540b2e68cba04d8e6035284c2d7b0c8
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 17:20:22 2020 +0200
+
+    Discovered cancer!
+
+commit b060ec0ad2c3106c5c085ca721b8cd14ea17bf4d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 13:37:36 2020 +0200
+
+    Fixed submodules
+
+commit d2c98e7cdd5c19762007c5a0b2aad3b26ebe91c8
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 13:27:22 2020 +0200
+
+    Optimized stuff
+
+commit 0a8a12c2744c188227769b9e7acd0d2588de244f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 13:22:56 2020 +0200
+
+    Made it more modular
+
+commit 4abe91c0d2f790ab7c71ae8d1d0158af8521f61b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 12:50:23 2020 +0200
+
+    Added imgui
+
+commit eba03f2969f9dec14ee2aa0cf3216ea05ff74223
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 12:50:14 2020 +0200
+
+    Namespaced stuff
+
+commit 0898cd005991dfcd5f2c91d9346530a649711f77
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 11:55:52 2020 +0200
+
+    Oops...
+
+commit 9bc3501bd65df0571d4cf9a731be9331cb9e5562
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 11:52:20 2020 +0200
+
+    Update .gitignore
+
+commit d64fb07bf74388bc7e1c46ab40dd91f79e3a376b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 11:46:45 2020 +0200
+
+    Update .gitignore
+
+commit f1c2bfae85dc08794f1f0167f0ba41931c8b9228
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 11:46:26 2020 +0200
+
+    Removed .user files, and added rule to gitignore
+
+commit 24bf7b17505f75378377f735843b19b8e990fa57
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 11:17:42 2020 +0200
+
+    Changed CMakeLists
+
+commit f1c4d074217c1466a3199776d1c33d5ffc6a7eef
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 11:17:25 2020 +0200
+
+    Added linux libs
+
+commit 3073117a9aa05c78028a56918d7488080e8cd5ab
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 03:19:36 2020 +0200
+
+    Changed CMake names
+
+commit 79b39715eb009406a51e45b83bfb9f9d16446301
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 03:18:57 2020 +0200
+
+    Renamed folders
+
+commit f4e9188da30d5b7f981bcad3bdf2d559e5856842
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 03:18:26 2020 +0200
+
+    Removed build files
+
+commit 2c47ed5c25eda5d33a50823310e8a02107c00de9
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Jun 15 03:15:23 2020 +0200
+
+    Fuck C#
+
+commit d9eff8c599910495b2a2c45ab4de4833177fcbf9
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jun 9 08:24:38 2020 +0200
+
+    Added rfcat python testing scripts
+
+commit fdfc784c7ab678d770a8d8951f246923eb43e804
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jun 9 01:53:24 2020 +0200
+
+    Cleanupppp
+
+commit c8bbeadcfbe6750ba7c1526452b4c10ff2b1add4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jun 9 01:44:58 2020 +0200
+
+    Renamed stuff
+
+commit 8bf25684407368f79e038904035c57585e29d3ae
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jun 9 01:39:10 2020 +0200
+
+    Renamed to ThorQ and updated arduino code
+
+commit 070d3e10e59316a2583356711f83255016f54841
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jun 3 16:06:56 2020 +0200
+
+    Removed possibility for in-lining
+
+commit c1ad1e5a61640cd964f9db0ea8fe3247666e08e7
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jun 3 16:03:38 2020 +0200
+
+    Fixed port manipulation
+
+commit 45d9db0e49ba399a71dd8891593084074e4be7e6
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jun 3 15:32:02 2020 +0200
+
+    Added arduino code
+
+commit d17e39f26ec3b86a9bfd95f60c1bf171fc498990
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Feb 23 03:04:26 2020 +0100
+
+    Auto-sets testport on startup
+
+commit 92c9ab494d6c975d115a95e85670f5154fba48cd
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Feb 23 02:32:55 2020 +0100
+
+    Code cleanup, grouping and added SerialConnect
+
+commit 5153b666abe1fd1538bda709a24ceeb873bb6aac
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Feb 23 02:32:20 2020 +0100
+
+    Minor cleanup
+
+commit 573d78a14481adc1b3bd34981a13b89e03e8b722
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Feb 23 02:31:04 2020 +0100
+
+    Added SerialConnection class
+
+commit 1483180b6624609910e59a2324849131b18db3f7
+Merge: abefec4 e389e01
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Feb 22 13:39:02 2020 +0100
+
+    Merge branch 'master' of https://github.com/hhvrc/CollarControl
+
+commit abefec4325e698353c603ebbb6a6d55643a77c44
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Feb 22 13:38:45 2020 +0100
+
+    Removed typo that serialized the wrong object
+
+commit c3800692c8aa6b1b6d7abf85d4a78e04eb9f799e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Feb 22 13:38:11 2020 +0100
+
+    Added initializer to AccountInstance
+
+commit af89f07d028035ec7b42684ccf9c96ae1bc46cc4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Feb 22 13:36:52 2020 +0100
+
+    Fixed client concurrency issues
+
+commit e389e010485d3ef58375c96dee769e1d11443c0c
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Feb 22 13:02:25 2020 +0100
+
+    Removed personal information ( ͡° ͜ʖ ͡°)
+
+commit 9650b8350a37b31fbd8b6c1a423ac4a93a08e5b1
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Feb 22 12:51:54 2020 +0100
+
+    Starting to split code into regions
+
+commit d9a27df47b7de5b56ff1e44a1f7d4fbb5f49761c
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Feb 22 12:50:32 2020 +0100
+
+    Added more description
+
+commit 3b352955a0608b571977e700ed31a913dee95f7b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Feb 22 12:50:04 2020 +0100
+
+    Removed bug where login whould not get/make initializedUser
+
+commit a6fb0e7cfea62664676d08ebc629413bd638c4c2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Feb 20 19:59:19 2020 +0100
+
+    Optimized UdpConnection
+
+commit 285481b2213e21bbba0926376e0f1a989327607b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 19 22:55:30 2020 +0100
+
+    Added Udp Class
+
+commit 714e6ea0025fd949a5410e8aaf4a5b26605f3f6b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 19 22:54:58 2020 +0100
+
+    Moved async invoke inside Host class
+
+commit 8303626bbc991faa1bade0948e2ba9cdec1ddffe
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 19 22:54:05 2020 +0100
+
+    Removed unneccesary debugging info
+
+commit 42af9bea32e667cdec55b5052deb9c8bc89f03ba
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 19 22:53:37 2020 +0100
+
+    Changed client&server to output bytes instead of strings
+
+commit fa1c4813e65f3564e57e7177461217de26a96737
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 19 14:29:50 2020 +0100
+
+    Added reading email params from config
+
+commit dd2dcced97a66908782c9d4f0d6b9ca4e50f93a2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 19 14:29:03 2020 +0100
+
+    Added client dispose call
+
+commit a35badcd148aedba7d6ba14e7254a5def626c36a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 19 14:28:18 2020 +0100
+
+    Removed bug where getting user from database whould inser null into password hashing function
+
+commit 25846dd515fa066e035bc1ff0c52f2b436f62ba5
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 19 14:27:05 2020 +0100
+
+    Removed cancel button
+
+commit c2f0d40f0a0bbbef06f9b416eb8f73c55383053b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 19 14:25:51 2020 +0100
+
+    Renamed library
+
+commit 2e8b1defb83ba8506f2ccb23f1f6950d799fc21d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 19 14:25:20 2020 +0100
+
+    Removed bug where software whould create user even if it already existed
+
+commit e17cf867c2d95c00485ced01855c27c84c9a07d5
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 19 14:24:19 2020 +0100
+
+    Renamed wrong variablename
+
+commit 0846fa44bb9af31fd659c6e9b024a536b6046ef7
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 19 14:23:48 2020 +0100
+
+    Fixed exception on adding user without friends
+
+commit 3dc44a6e4fda7432d564824f9c2af61a8b2ff4df
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 19 14:23:13 2020 +0100
+
+    Changed ToolBox.SendEmail to class
+
+    Improve performance
+    Remove hardcoded creds
+
+commit 31e6b329dac7bd824f502ca01f8f91f897ba78f4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 19 14:20:17 2020 +0100
+
+    Added functionality to and renamed AppCache
+
+commit 837fb44bb19e5deed44026770f246489a1aaa264
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 19 02:33:48 2020 +0100
+
+    Added more UI input validation
+
+commit 6a1841ededbb4c573ee132fae7eb9167e6cbf612
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 19 02:33:23 2020 +0100
+
+    Fixed high cpu usage on diconnect, and code cleanup
+
+commit 3331948decf4dad3421fdac8c5a210873fc1b920
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Feb 17 23:35:42 2020 +0100
+
+    Communication working again with async db
+
+commit 9d9ce52ea292bd0d213fa3024ca5257cb1261b8b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Feb 5 23:42:36 2020 +0100
+
+    Added popup and login
+
+commit 8336c4f794ca6e5d6c288cbca2a64ab501d9f7d2
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Feb 1 16:48:50 2020 +0100
+
+    Added UI elements, Cleaned up code
+
+commit edf2ded81a309afa7c5a7524aec0562aa356db44
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jan 30 22:42:43 2020 +0100
+
+    Moved files into libraries and started work on WpfClient
+
+commit 5d3829d548d1ea9db01d61ebacb2e4748ec573dc
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Jan 30 02:27:36 2020 +0100
+
+    Added icons and screen centering
+
+commit 7a9279c29b4d547a69301e5409ee32936440e4d3
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jan 29 23:45:32 2020 +0100
+
+    Renamed to proper names
+
+commit ae06a3b5ad439a31566fc340b049f128edc22c66
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jan 29 23:10:27 2020 +0100
+
+    Fixed crahing when aborting connection thread
+
+commit f2a7d1c8f8ae3e560284adf4d81ec40ceb019c74
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jan 29 23:06:53 2020 +0100
+
+    Switched to stack-like UI scope management, and switched to static connection
+
+commit cfac966ab5b0b14b8ac97d3f9c3e032edc6e7884
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jan 29 20:19:11 2020 +0100
+
+    Updated MonoServer, added IDisposable to connections, and updated options window on ClientForms
+
+commit 11722f6a2a9b3b5d9cce84c3d25e601873ff098f
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Jan 29 02:26:30 2020 +0100
+
+    Alot of minor updates
+
+commit 453a8d140c2bba5fc2bf365050d60ab4187b9958
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jan 28 23:40:48 2020 +0100
+
+    Updated placeholders
+
+commit fd0a534b0af8fca9f98a24c195c4da9801427f1e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jan 28 23:34:45 2020 +0100
+
+    Big framework changes
+
+commit e6dcf508832bded0bccd91c8866772d50df6b603
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jan 28 03:25:20 2020 +0100
+
+    [INCOMPLETE] Changed API communication
+
+commit c36d300d17ac31f104d0e23cddb093fbda43011e
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jan 14 16:35:01 2020 +0100
+
+    Fixed IPv4/IPv6 socket issue & bool parser
+
+commit a0ee0223a4931a150d1733acc41069e94af23cfe
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jan 14 15:48:02 2020 +0100
+
+    Client now tries to connect to multiple suggested adresses
+
+commit e3a50ddebbab93faa40714b2b8f06dae8ac8d6d4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jan 14 15:30:15 2020 +0100
+
+    Added input parameters to server
+
+commit 976589f88554d1d4dad8b057d8995e8543ec0d2d
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jan 14 15:16:28 2020 +0100
+
+    Added Forms Plaintext Cache
+
+commit 39f156882d99684825e938fc4749f95f70fcd219
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jan 14 14:12:09 2020 +0100
+
+    Fixed bugs, added server checker
+
+commit 32be973130b62e0d49e989185fa623d217bb2f91
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jan 14 09:20:39 2020 +0100
+
+    Removed hh.inq.li
+
+commit 96c42660919aa1072b4d7773437c909fdde71ae9
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Jan 14 08:43:13 2020 +0100
+
+    ALOT of progress
+
+    Server works
+    Client works
+    Encryption works
+    Login works
+    Registration works
+    Recovery works
+    Messaging works
+    Some UI features
+
+commit 8ecf660e50aa34d4c5da30aa8abf43499551a9a4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Nov 16 17:23:05 2019 +0100
+
+    Changed to framework netcoreapp3.0
+
+commit 5078309780ba017a9e6eb077a64c409e38275b01
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Nov 2 03:36:14 2019 +0100
+
+    Merged with legacy code
+
+commit 5dcd6f1f6982ef2d33d71dd94aa68144201f3508
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Oct 14 00:29:46 2019 +0200
+
+    removed id implicit conversion
+
+commit 28be751aad421b0632f8aef61b10b4e2cc20c2a4
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Oct 13 14:00:36 2019 +0200
+
+    Removed credentialhandler (no longer needed)
+
+commit 6b260a58ccd9116549839aa5519bd09ecef3a698
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Oct 13 13:55:19 2019 +0200
+
+    [SERVER ONLY] Structuring, Improved thread-safety, and friend-request
+
+commit 5b70ee06296b6d6f7307a030e2aafdcb5fa924b9
+Author: hhvrc <github@heavenvr.tech>
+Date:   Tue Oct 8 01:12:24 2019 +0200
+
+    Improvemennntttssssss
+
+commit 40990892f0601be30357424e3fc4ce91ee19ceac
+Author: hhvrc <github@heavenvr.tech>
+Date:   Mon Oct 7 16:32:24 2019 +0200
+
+    Testing XML serialization (EXPERIMENTAL)
+
+commit 8d236ef4a2138e0a1f2e2c0a9f6e5771a97d8d0b
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Oct 6 22:44:31 2019 +0200
+
+    added email verification
+
+commit 49fc59e5ae4d5f2b41113ee3723ff0afcdd3fea3
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Oct 6 19:19:04 2019 +0200
+
+    Improved stability and documentation
+
+commit 1433e81ff5a50ee74b794745efb1159e4b3f46fa
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Oct 6 16:32:06 2019 +0200
+
+    Finished crypto class
+
+commit ccda9001e1703540348c1772be5b129b90b61f6a
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Oct 6 15:49:39 2019 +0200
+
+    Completed Host class
+
+commit 3306213af7e7c17af5c14e927d877080877fcfd0
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sun Oct 6 01:28:03 2019 +0200
+
+    Login now works... Kinda?
+
+commit 58d646b49a620578f028a277752dda9c776f5b5c
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Oct 5 21:50:06 2019 +0200
+
+    Documentation and bug-fixes
+
+commit d848215b0c6d6eda42c5b949ef5b916c4780d489
+Author: hhvrc <github@heavenvr.tech>
+Date:   Sat Oct 5 16:36:17 2019 +0200
+
+    Uhhhhhhhh Did Stuff
+
+commit 57a7c3408f91f2f57afae2ca3c35c20ff3da3538
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 3 20:33:41 2019 +0200
+
+    Restructured code, Added Login, Safety, DB-Package, and more...
+
+commit 1917393daa852bacc3865c3ac0fc08e345f43306
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 3 12:58:47 2019 +0200
+
+    Made Client an actual Client
+
+commit bdf9dc7301297e9d4bb68597c3ecfe83429dec72
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 3 00:18:21 2019 +0200
+
+    Added ClientConsole, and ClientForms
+
+commit 4232a72969e8ee11fec26836a0ebf4146a1af667
+Author: hhvrc <github@heavenvr.tech>
+Date:   Thu Oct 3 00:12:30 2019 +0200
+
+    Created Server
+
+commit 81c46f5a058ff72c01a4660886535bf644b7b252
+Author: hhvrc <github@heavenvr.tech>
+Date:   Wed Oct 2 23:16:45 2019 +0200
+
+    Initial commit
